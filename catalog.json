@@ -1,5 +1,5 @@
 {
-    "version":  1,
+    "version":  2,
     "sources":  {
                     "waves":  [
                                   {
@@ -8452,6 +8452,16 @@
                                                  ],
                                         "description":  ""
                                     },
+                                                            {
+                                        "name":  "Зимний уют в норвежском стиле",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:251",
+                                        "tags":  [
+                                                     "Акустический минимализм",
+                                                     "Природные звуки",
+                                                     "Вокал"
+                                                 ],
+                                        "description":  "Музыка, создающая ощущение безопасности, тепла и душевного равновесия."
+                                    },
                                     {
                                         "name":  "Рождественская музыка для праздничной атмосферы",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:252",
@@ -8522,6 +8532,16 @@
                                                  ],
                                         "description":  ""
                                     },
+                                    {
+                                        "name":  "Исламская музыка",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:265",
+                                        "tags":  [
+                                                     "Духовность",
+                                                     "Разнообразие",
+                                                     "Гармония"
+                                                 ],
+                                        "description":  "Музыка сердца и разума, которая служит мостом между земным миром и духовными поисками человека."
+                                    },                        
                                     {
                                         "name":  "Поорать в машине под ню-метал",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:266",
@@ -8613,6 +8633,14 @@
                                         "description":  ""
                                     },
                                     {
+                                        "name":  "Музыка чтобы похвастаться успехом",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:283",
+                                        "tags":  [
+
+                                                 ],
+                                        "description":  "«Режим босса» в аудиоформате."
+                                    },                        
+                                    {
                                         "name":  "Джаз для гармонии и покоя",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:284",
                                         "tags":  [
@@ -8673,14 +8701,14 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Дарк-эмбиент для заброшенного звездолёта",
+                                        "name":  "Дарк-эмбиент для путешествия на звездолёте",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:292",
                                         "tags":  [
                                                      "Электроника",
                                                      "Атмосферная",
                                                      "Подборка"
                                                  ],
-                                        "description":  ""
+                                        "description":  "Звуковое полотно бесконечного космоса и работающих механизмов."
                                     },
                                     {
                                         "name":  "Песни о любви",
@@ -8703,16 +8731,6 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Рэп с психоделическими битами",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:297",
-                                        "tags":  [
-                                                     "Хип-хоп",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Электроника для дождливого дня",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:295",
                                         "tags":  [
@@ -8723,15 +8741,25 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Традиционные венгерские танцевальные мелодии",
+                                        "name":  "Танцевать под венгерское традиционное",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:296",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Танцевальная",
                                                      "Подборка"
                                                  ],
-                                        "description":  ""
+                                        "description":  "Вихрь неудержимой энергии, страсти и виртуозного исполнения."
                                     },
+                                    {
+                                        "name":  "Рэп с психоделом внутри",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:297",
+                                        "tags":  [
+                                                     "Хип-хоп",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  "Сюрреалистичное путешествие по закоулкам подсознания, где классический речитатив встречается с измененным восприятием реальности."
+                                    },                        
                                     {
                                         "name":  "Дабстеп для силовой тренировки",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:298",
