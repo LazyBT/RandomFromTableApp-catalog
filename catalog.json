@@ -1,5 +1,5 @@
 {
-    "version":  8,
+    "version":  9,
     "sources":  {
                     "waves":  [
                                   {
@@ -6926,15 +6926,74 @@
                               ],
                     "at_vibe":  [
                                     {
+                                        "name":  "Unknown 1",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
                                         "name":  "Этника из Турции в современной обработке",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:2",
                                         "tags":  [
-                                                     "Этника",
+                                                     "анадолурока",
+                                                     "современнаяэтника",
+                                                     "электронныйтранс"
+                                                 ],
+                                        "description":  "Гипнотическое слияние древних анатолийских мелодий, игры на сазе, нея и давуле с современными битами, электронными текстурами и глубокими басами, создающее одновременно медитативный и танцевальный транс."
+                                    },
+                                    {
+                                        "name":  "Этническая музыка сальвадора",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:3",
+                                        "tags":  [
+                                                     "маримбадеарко",
+                                                     "сальвадорскийфольклор",
+                                                     "канья"
+                                                 ],
+                                        "description":  "Аутентичное, ритмически насыщенное звучание, в котором переплетаются доколумбовы традиции народа пипиль, африканские ритмы и испанская кансьонеро, передающее через игру на маримбе, гитаре и перкуссии жизненную силу, историческую память и дух сопротивления центральноамериканского народа."
+                                    },
+                                    {
+                                        "name":  "Unknown 4",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:4",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
+                                                 ],
+                                        "description":  ""
+                                    },
+                                    {
+                                        "name":  "Эстетика заброшенных заводов",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:5",
+                                        "tags":  [
+                                                     "индустриальныйэмбиент",
+                                                     "даркэмбиент",
+                                                     "декор-промзоны"
+                                                 ],
+                                        "description":  "Индустриальный, мрачный и атмосферный звуковой ландшафт из шума ржавеющего металла, далеких эхо-ударов, гула трансформаторов, искаженных дронов и минималистичных перкуссий, передающий чувство забвения, былой мощи и суровой меланхолии умирающей архитектуры."
+                                    },
+                                        "name":  "Unknown 6",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:6",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
+                                                 ],
+                                        "description":  ""
+                                    },
+                                    {
+                                        "name":  "Эпицентр трэш-метала: Bay Area 80-х",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:7",
+                                        "tags":  [
+                                                     "Метал",
                                                      "Атмосферная",
                                                      "Подборка"
                                                  ],
                                         "description":  ""
-                                    },
+                                    },    
                                     {
                                         "name":  "Психоделический рок",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:8",
@@ -6966,26 +7025,6 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Эстетика заброшенных заводов",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:5",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Этническая музыка сальвадора",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:3",
-                                        "tags":  [
-                                                     "Этника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Энергичный британский гэридж для тренировки",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:9",
                                         "tags":  [
@@ -7011,16 +7050,6 @@
                                         "tags":  [
                                                      "Электроника",
                                                      "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Эпицентр трэш-метала: Bay Area 80-х",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:7",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
                                                      "Подборка"
                                                  ],
                                         "description":  ""
@@ -9381,7 +9410,7 @@
                                                  ],
                                         "description":  "Обволакивающий поток теплых аналоговых клавиш, чувственного вокала и мягких грувов, который согревает изнутри и создает ощущение абсолютного уюта и душевного комфорта."
                                     },
-                                        "name":  "R&b для релакса",
+                                        "name":  "R&B для релакса",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:391",
                                         "tags":  [
                                                      "r_n_b",
@@ -9391,7 +9420,7 @@
                                         "description":  "Плавный поток чувственных мелодий и мягкого баса, который создает атмосферу неги и безмятежности, идеально подходящую для того, чтобы отпустить все заботы дня."
                                     },                        
                                     {
-                                        "name":  "Бодрящий хаус для утренней пробежки",
+                                        "name":  "На утреннюю пробежку под бодрый хаус",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:397",
                                         "tags":  [
                                                      "Электроника",
@@ -9421,7 +9450,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Этническая музыка с мистической атмосферой",
+                                        "name":  "Этнично. Мистично",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:405",
                                         "tags":  [
                                                      "Этника",
@@ -9431,7 +9460,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Этника для погружения в мир бескрайних пустынь",
+                                        "name":  "Этника бескрайних пустынь",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:407",
                                         "tags":  [
                                                      "На вайбе",
@@ -9441,7 +9470,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Вдохновляющая музыка",
+                                        "name":  "Вдохновиться так чтоб уххх",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:409",
                                         "tags":  [
                                                      "На вайбе",
@@ -9531,6 +9560,16 @@
                                         "description":  ""
                                     },
                                     {
+                                        "name":  "Unknown 430",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:430",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
+                                                 ],
+                                        "description":  ""
+                                    },
+                                    {
                                         "name":  "Электронная музыка с механическими звуками",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:431",
                                         "tags":  [
@@ -9541,12 +9580,42 @@
                                         "description":  ""
                                     },
                                     {
+                                        "name":  "Unknown 432",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:432",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
+                                                 ],
+                                        "description":  ""
+                                    },
+                                    {
+                                        "name":  "Unknown 433",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:433",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
+                                                 ],
+                                        "description":  ""
+                                    },
+                                    {
                                         "name":  "Мотивирующий фьюче-гэридж",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:434",
                                         "tags":  [
                                                      "Электроника",
                                                      "Атмосферная",
                                                      "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },
+                                    {
+                                        "name":  "Unknown 435",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:435",
+                                        "tags":  [
+                                                     "",
+                                                     "",
+                                                     ""
                                                  ],
                                         "description":  ""
                                     },
