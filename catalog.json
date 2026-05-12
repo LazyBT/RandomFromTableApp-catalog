@@ -9371,7 +9371,6 @@
                                         "description":  ""
                                     },
                                     {
-                                    {
                                         "name":  "Укутаться в бархатный соул",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:389",
                                         "tags":  [
@@ -9381,6 +9380,7 @@
                                                  ],
                                         "description":  "Обволакивающий поток теплых аналоговых клавиш, чувственного вокала и мягких грувов, который согревает изнутри и создает ощущение абсолютного уюта и душевного комфорта."
                                     },
+                                    {                        
                                         "name":  "R&B для релакса",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:391",
                                         "tags":  [
