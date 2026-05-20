@@ -7686,7 +7686,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Джаз в стиле нуар",
+                                        "name":  "Играет джаз, всё в полумраке",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:124",
                                         "tags":  [
                                                      "Джаз",
@@ -8593,7 +8593,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Джаз с холодными арктическими нотами",
+                                        "name":  "Джаз с арктическими нотами",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:276",
                                         "tags":  [
                                                      "Джаз",
@@ -8641,7 +8641,7 @@
                                         "description":  "«Режим босса» в аудиоформате."
                                     },                        
                                     {
-                                        "name":  "Джаз для гармонии и покоя",
+                                        "name":  "Замедлиться под джаз",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:284",
                                         "tags":  [
                                                      "Джаз",
@@ -8701,7 +8701,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Дарк-эмбиент для путешествия на звездолёте",
+                                        "name":  "Путешествовать на звездолёте под дарк-эмбиент",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:292",
                                         "tags":  [
                                                      "Электроника",
@@ -9751,18 +9751,18 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Уютные мелодии для дома",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:473",
+                                        "name":  "Дача, воздух, выходные",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:471",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Атмосферная",
                                                      "Подборка"
                                                  ],
                                         "description":  ""
-                                    },
+                                    },                        
                                     {
-                                        "name":  "Выходные на даче",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:471",
+                                        "name":  "Уютные мелодии для дома",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:473",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Атмосферная",
@@ -10521,7 +10521,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Глубокий эмбиент для размышлений",
+                                        "name":  "Поразмышлять под глубокий эмбиент",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:603",
                                         "tags":  [
                                                      "Электроника",
@@ -10581,7 +10581,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Вдохновение для рисования",
+                                        "name":  "Вдохновиться и рисовать",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:615",
                                         "tags":  [
                                                      "На вайбе",
@@ -10621,16 +10621,6 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Депрессивный блэк-метал для мрачных размышлений",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:625",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Поп-музыка для летнего настроения",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:624",
                                         "tags":  [
@@ -10640,6 +10630,16 @@
                                                  ],
                                         "description":  ""
                                     },
+                                    {
+                                        "name":  "Мрачно размышлять под блэк-метал",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:625",
+                                        "tags":  [
+                                                     "Метал",
+                                                     "Мрачная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
                                     {
                                         "name":  "Индастриал-метал чтобы колоть дрова",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:626",
@@ -11241,7 +11241,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Викинг-метал с эпической атмосферой",
+                                        "name":  "Эпический викинг-метал",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:728",
                                         "tags":  [
                                                      "Метал",
@@ -11271,7 +11271,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Вечная зима норвежского блэка",
+                                        "name":  "Вечная зима норвежского блэк-метала",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:735",
                                         "tags":  [
                                                      "Метал",
@@ -12011,7 +12011,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Джаз чтобы заснуть",
+                                        "name":  "Засыпать под джаз",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:858",
                                         "tags":  [
                                                      "Джаз",
@@ -12471,7 +12471,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Возвращение домой после долгой поездки",
+                                        "name":  "Наконец-то домой",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:928",
                                         "tags":  [
                                                      "На вайбе",
@@ -12591,7 +12591,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Выпускной в школе",
+                                        "name":  "Школа, прощай",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:960",
                                         "tags":  [
                                                      "На вайбе",
@@ -12981,26 +12981,6 @@
                                         "description":  "Интеллектуальная электроника с точными ритмами и минималистичной атмосферой, помогающая удерживать концентрацию и входить в глубокий рабочий фокус."
                                     },
                                     {
-                                        "name":  "Дабстеп с этническими мотивами",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1034",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Дабстеп с 8-bit",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1035",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Дедлайн горит, и я вместе с ним",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1031",
                                         "tags":  [
@@ -13020,6 +13000,26 @@
                                                  ],
                                         "description":  ""
                                     },
+                                    {
+                                        "name":  "Услышать этнику в дабстепе",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1034",
+                                        "tags":  [
+                                                     "Электроника",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
+                                        "name":  "Дабстеп в 8 бит",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1035",
+                                        "tags":  [
+                                                     "Электроника",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
                                     {
                                         "name":  "Хаус: энергия ночи",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1039",
@@ -13241,6 +13241,16 @@
                                         "description":  ""
                                     },
                                     {
+                                        "name":  "Готик-метал в заброшенном замке",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1078",
+                                        "tags":  [
+                                                     "Метал",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
                                         "name":  "Дэт-метал с глубоким гроулингом",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1079",
                                         "tags":  [
@@ -13261,17 +13271,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Готик-метал: эхо в заброшенном замке",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1078",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Джаз для семейного ужина",
+                                        "name":  "Джаз к семейному ужину",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1081",
                                         "tags":  [
                                                      "Джаз",
@@ -13491,7 +13491,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Джаз для прогулок по ночному городу",
+                                        "name":  "Сквозь ночной город под джаз",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1118",
                                         "tags":  [
                                                      "Джаз",
@@ -13671,16 +13671,6 @@
                                         "description":  "Бесконечные низкочастотные гулы, тягучий эмбиент и ощущение надвигающейся пустоты, будто саундтрек к последним минутам цивилизации."
                                     },                        
                                     {
-                                        "name":  "Герои альтернативного метала нулевых",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Пауэр-метал с фэнтезийными текстами",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1152",
                                         "tags":  [
@@ -13691,7 +13681,17 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Даунтемпо чтобы расслабиться",
+                                        "name":  "Альтернативный метал нулевых",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",
+                                        "tags":  [
+                                                     "Метал",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
+                                        "name":  "Снизить темп под даунтемпо",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1156",
                                         "tags":  [
                                                      "Электроника",
