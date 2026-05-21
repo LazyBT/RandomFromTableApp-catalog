@@ -8473,7 +8473,17 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Зажигательная музыка для карнавала",
+                                        "name":  "Дэткорные брейкдауны чтобы стены тряслись",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:254",
+                                        "tags":  [
+                                                     "Метал",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
+                                        "name":  "Карнавал под зажигательную музыку",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:256",
                                         "tags":  [
                                                      "На вайбе",
@@ -8483,17 +8493,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Дэткорные брейкдауны, от которых трясутся стены",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:254",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Загадочный экспериментальный эмбиент",
+                                        "name":  "Эксперименты в загадочном эмбиенте",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:258",
                                         "tags":  [
                                                      "Электроника",
@@ -8503,7 +8503,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Европоп-микс: хиты вечеринок",
+                                        "name":  "Устроить вечеринку под европоп",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:262",
                                         "tags":  [
                                                      "На вайбе",
@@ -8603,7 +8603,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Дэнсхолл для танцевальной вечеринки",
+                                        "name":  "Танцевальная вечеринка под дэнсхолл",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:277",
                                         "tags":  [
                                                      "На вайбе",
@@ -11341,6 +11341,16 @@
                                         "description":  ""
                                     },
                                     {
+                                        "name":  "Провожать солнце у моря",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:748",
+                                        "tags":  [
+                                                     "На вайбе",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
                                         "name":  "Вдохновляющая и эпичная электроника",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:749",
                                         "tags":  [
@@ -11355,16 +11365,6 @@
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:753",
                                         "tags":  [
                                                      "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Закат на пляже",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:748",
-                                        "tags":  [
-                                                     "На вайбе",
                                                      "Атмосферная",
                                                      "Подборка"
                                                  ],
@@ -12551,7 +12551,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Динамичный edm для кардио",
+                                        "name":  "Кардио под динамичный EDM",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:944",
                                         "tags":  [
                                                      "Электроника",
@@ -12801,7 +12801,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Дэт-метал для качалки",
+                                        "name":  "Качалка под дэт-метал",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:994",
                                         "tags":  [
                                                      "Метал",
