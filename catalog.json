@@ -8345,7 +8345,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Индийская романтика: мелодии для влюблённых",
+                                        "name":  "Индийская романтика",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:235",
                                         "tags":  [
                                                      "На вайбе",
@@ -11411,7 +11411,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Инструментальный прогрессив-метал с длинными соло",
+                                        "name":  "Прогрессив-метал без слов с длинными соло",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:760",
                                         "tags":  [
                                                      "Метал",
@@ -12301,6 +12301,16 @@
                                         "description":  ""
                                     },
                                     {
+                                        "name":  "Расслабиться под классику",
+                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:899",
+                                        "tags":  [
+                                                     "На вайбе",
+                                                     "Атмосферная",
+                                                     "Подборка"
+                                                 ],
+                                        "description":  ""
+                                    },                        
+                                    {
                                         "name":  "Красота увядания в готик-метале",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:900",
                                         "tags":  [
@@ -12371,16 +12381,6 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Классика, которая расслабляет",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:899",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Код, кофе, концентрация",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:910",
                                         "tags":  [
@@ -12431,7 +12431,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Каскадный блэк: шум дождя и эхо гор",
+                                        "name":  "Каскадный блэк-метал в шуме дождя",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:920",
                                         "tags":  [
                                                      "Метал",
@@ -12521,7 +12521,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Инструментальный блэк-метал",
+                                        "name":  "Блэк-метал без слов",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:940",
                                         "tags":  [
                                                      "Метал",
@@ -12751,7 +12751,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Киберпанк-индастриал: саундтрек к будущему",
+                                        "name":  "Прислушаться к будущему в киберпанк-индастриале",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:984",
                                         "tags":  [
                                                      "Рок",
@@ -13091,7 +13091,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Кинематографический оркестр",
+                                        "name":  "Кино и оркестр",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1049",
                                         "tags":  [
                                                      "На вайбе",
@@ -13381,7 +13381,7 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Индийская музыка для релакса и медитации",
+                                        "name":  "Расслабляться под индийскую музыку",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1097",
                                         "tags":  [
                                                      "На вайбе",
