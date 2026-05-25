@@ -13750,56 +13750,12 @@
                                                  ],
                                         "description":  "Мощь, нежность, бунт и уязвимость в звуке, ломающем стереотипы."
                                     },
-                                    { 
-                                        "name": "Альтернатива для влюблённых",
-                                        "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aalternative",  
-                                        "tags":  [
-                                                     "AlternativeLove", 
-                                                     "IndieRomance", 
-                                                     "GrungeVibes"
-                                                 ], 
-                                        "description": "Искренний инди-рок, атмосферный гранж и глубокие овердрайв-баллады для нестандартных чувств." 
-                                    },
-                                    { 
-                                        "name": "Африканская музыка для влюблённых", 
-                                        "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aafrican",  
-                                        "tags":   [
-                                                    "AfricanRomance", 
-                                                    "AfrobeatsLove", 
-                                                    "KizombaVibes"
-                                                  ], 
-                                        "description": "Чувственные ритмы афробита, нежная кизомба и тёплые мелодии для горячих сердец." 
-                                    },
-                                    { 
-                                        "name": "Музыка вне времени для влюблённых", 
-                                        "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Athe-greatest-hits",  
-                                        "tags":   [
-                                                    "TimelessLove", 
-                                                    "RomanticClassics", 
-                                                    "EvergreenHits"
-                                                  ], 
-                                        "description": "Вечные шедевры и культовые мелодии, объединяющие сердца сквозь поколения и эпохи." 
-                                    },
-                                    { 
-                                        "name": "Рок для влюблённых", 
-                                        "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aallrock",  
-                                        "tags":    [
-                                                    "RockRomance", 
-                                                    "PowerBallads", 
-                                                    "LoveRock"
-                                                    ], 
-                                        "description": "Драйвовые рок-баллады, мощные гитарные соло и искренняя энергия настоящей бунтарской любви." 
-                                    },
-                                    { 
-                                        "name": "Романтическая музыка 1950-х", 
-                                        "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Afifties",  
-                                        "tags":     [
-                                                        "1950s", 
-                                                        "RetroRomance", 
-                                                        "VintageVibes"
-                                                    ], 
-                                        "description": "Ностальгические ретро-баллады и нежные оркестровые мелодии золотой эпохи любви." 
-                                    },
+                        { "name": "Альтернатива для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aalternative",  "tags": ["AlternativeLove", "IndieRomance", "GrungeVibes"], "description": "Искренний инди-рок, атмосферный гранж и глубокие овердрайв-баллады для нестандартных чувств." },
+                        { "name": "Альтернативный метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aalternativemetal",  "tags": ["AltMetal", "MetalRomance", "HeavyLove"], "description": "Тяжелые риффы, надрывный вокал и чувственные метал-баллады для самых сильных эмоций." },
+                        { "name": "Африканская музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aafrican",  "tags": ["AfricanRomance", "AfrobeatsLove", "KizombaVibes"], "description": "Чувственные ритмы афробита, нежная кизомба и тёплые мелодии для горячих сердец." },
+                        { "name": "Музыка вне времени для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Athe-greatest-hits",  "tags": ["TimelessLove", "RomanticClassics", "EvergreenHits"], "description": "Вечные шедевры и культовые мелодии, объединяющие сердца сквозь поколения и эпохи." },
+                        { "name": "Рок для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aallrock",  "tags": ["RockRomance", "PowerBallads", "LoveRock"], "description": "Драйвовые рок-баллады, мощные гитарные соло и искренняя энергия настоящей бунтарской любви." },
+                        { "name": "Романтическая музыка 1950-х", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Afifties",  "tags": ["1950s", "RetroRomance", "VintageVibes"], "description": "Ностальгические ретро-баллады и нежные оркестровые мелодии золотой эпохи любви." },
                         { "name": "Романтическая музыка 1960-х", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Asixties",  "tags": ["1960s", "ClassicRomance", "OldiesButGoldies"], "description": "Трогательный поп-рок, душевный соул и нежные баллады эпохи музыкальной революции." },
                         { "name": "Романтическая музыка 1970-х", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Aseventies",  "tags": ["1970s", "SoftRock", "VintageLove"], "description": "Чувственный софт-рок, диско-баллады и глубокий соул для самых искренних чувств." },
                         { "name": "Романтическая музыка 1980-х", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cepoch%3Aeighties",  "tags": ["1980s", "SynthRomance", "PowerBallads"], "description": "Атмосферные синти-поп баллады, мощные рок-хиты и неоновый романтизм эпохи ярких чувств." },
