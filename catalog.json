@@ -13749,7 +13749,9 @@
                                                      "Подборка"
                                                  ],
                                         "description":  "Мощь, нежность, бунт и уязвимость в звуке, ломающем стереотипы."
-                                    },
+                                    }
+                    ],
+                    "deep_combos":  [
                         { "name": "Авторская песня для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Abard",  "tags": ["АвторскаяПесня", "БардовскаяРомантика", "АкустикаЛюбви"], "description": "Искренние стихи под тихий перебор акустической гитары о самом главном и сокровенном." },
                         { "name": "Альтернатива для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aalternative",  "tags": ["AlternativeLove", "IndieRomance", "GrungeVibes"], "description": "Искренний инди-рок, атмосферный гранж и глубокие овердрайв-баллады для нестандартных чувств." },
                         { "name": "Альтернативный метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aalternativemetal",  "tags": ["AltMetal", "MetalRomance", "HeavyLove"], "description": "Тяжелые риффы, надрывный вокал и чувственные метал-баллады для самых сильных эмоций." },
