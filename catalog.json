@@ -2,7 +2,12 @@
     "version":  11,
     "sources":  {
                     "waves":  [
-                                  {
+                        { "name": "Для влюблённых", "deepLink": "yandexmusic://play-vibe/?stationId=activity:beloved",  "tags": ["LoveSongs", "RomanticVibes", "MusicForLovers"], "description": "Романтические баллады, чувственные мелодии и нежные песни для идеальных моментов вдвоем." },          
+                        { "name": "За рулём", "deepLink": "yandexmusic://play-vibe/?stationId=activity:driving",  "tags": ["DrivingMusic", "RoadTrip", "OnTheRoad"], "description": "Ритмичные дорожные хиты, качающий бас и бодрящие мелодии для твоих идеальных поездок." },         
+                        { "name": "Засыпаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:fall-asleep",  "tags": ["SleepMusic", "Lullaby", "RelaxingSounds"], "description": "Успокаивающий эмбиент, нежные колыбельные и расслабляющие звуки природы для твоего крепкого сна." },        
+                        { "name": "Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=activity:party",  "tags": ["PartyTime", "DanceHits", "ClubMusic"], "description": "Зажигательные танцевальные треки, мощные басы и безумная клубная атмосфера для твоей лучшей тусовки." },
+                        { "name": "В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=activity:road-trip",  "tags": ["RoadTrip", "TravelMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
+                        {
                                       "name":  "Музыка для медитации",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:meditation",
                                       "tags":  [
@@ -5542,42 +5547,12 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "За рулём",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=activity:driving",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "В дорогу",
-                                                   "Энергичная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "В дороге",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=activity:road-trip",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "В дорогу",
-                                                   "Фоновая"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "Работаю",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=activity:work-background",
                                       "tags":  [
                                                    "Настроение",
                                                    "Работа",
                                                    "Фоновая"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Вечеринка",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=activity:party",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "Танцевальная",
-                                                   "Клубная"
                                                ],
                                       "description":  ""
                                   },
@@ -5592,32 +5567,12 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "Для влюблённых",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=activity:beloved",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "Романтика",
-                                                   "Спокойная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "Секс",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=activity:sex",
                                       "tags":  [
                                                    "Настроение",
                                                    "Романтика",
                                                    "Эротика"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Засыпаю",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=activity:fall-asleep",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "Сон",
-                                                   "Спокойная"
                                                ],
                                       "description":  ""
                                   },
