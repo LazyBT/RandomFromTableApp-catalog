@@ -5843,56 +5843,11 @@
                                   }
                               ],
                     "mixes":  [
-                                  {
-                                      "name":  "Тренируюсь",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-activity:1",
-                                      "tags":  [
-                                                   "Спорт",
-                                                   "Энергичная",
-                                                   "Силовая"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Бег",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-activity:2",
-                                      "tags":  [
-                                                   "Спорт",
-                                                   "Кардио",
-                                                   "Ритмичная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Вечеринка",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-activity:3",
-                                      "tags":  [
-                                                   "Танцевальная",
-                                                   "Веселая",
-                                                   "Друзья"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "В дороге",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-activity:9",
-                                      "tags":  [
-                                                   "Путешествие",
-                                                   "Авто",
-                                                   "Фоновая"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Просыпаюсь",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-activity:13",
-                                      "tags":  [
-                                                   "Утро",
-                                                   "Бодрая",
-                                                   "Легкая"
-                                               ],
-                                      "description":  ""
-                                  },
+                        { "name": "Сет Тренируюсь", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:1",  "tags": ["WorkoutMusic", "FitnessBeats", "GymMotivation"], "description": "Мощные биты, взрывные треки и мотивирующий ритм для максимальной эффективности твоих тренировок" },
+                        { "name": "Сет Бег", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:2",  "tags": ["RunningMusic", "CardioBeats", "JoggingMix"], "description": "Динамичный темп, бодрящий электронный бит и мотивирующий ритм для твоих идеальных пробежек." },
+                        { "name": "Сет Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:3",  "tags": ["PartyMix", "DanceHits", "ClubVibes"], "description": "Зажигательные танцевальные хиты, качающие басы и взрывная клубная атмосфера для яркого праздника." },
+                        { "name": "Сет В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:9",  "tags": ["RoadTrip", "DrivingMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
+                        { "name": "Сет Просыпаюсь", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:13",  "tags": ["MorningVibes", "WakeUpMusic", "GoodMorning"], "description": "Мягкие ритмы, бодрящие светлые мелодии и позитивный настрой для твоего идеального утра." },
                                   {
                                       "name":  "Танцевальная музыка",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:16",
