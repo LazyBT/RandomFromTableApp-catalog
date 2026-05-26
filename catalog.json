@@ -5803,7 +5803,9 @@
                         { "name": "Сет Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:3",  "tags": ["PartyMix", "DanceHits", "ClubVibes"], "description": "Зажигательные танцевальные хиты, качающие басы и взрывная клубная атмосфера для яркого праздника." },
                         { "name": "Сет В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:9",  "tags": ["RoadTrip", "DrivingMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
                         { "name": "Сет Просыпаюсь", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:13",  "tags": ["MorningVibes", "WakeUpMusic", "GoodMorning"], "description": "Мягкие ритмы, бодрящие светлые мелодии и позитивный настрой для твоего идеального утра." },
-                                  {
+                        { "name": "Сет Хаус", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:101",  "tags": ["HouseMusic", "ClubGroove", "DanceVibes"], "description": "Пульсирующий прямой бит, качающий грув и яркие вокальные сэмплы для истинных любителей клубной культуры." },         
+                        { "name": "Сет Техно", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:128",  "tags": ["TechnoMusic", "IndustrialTechno", "RaveCulture"], "description": "Гипнотический прямой бит, плотный индустриальный бас и мрачная атмосфера бесконечного ночного рейва." },
+                        {
                                       "name":  "Танцевальная музыка",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:16",
                                       "tags":  [
@@ -5830,26 +5832,6 @@
                                                    "Электроника",
                                                    "Энергичная",
                                                    "Мелодичная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Хаус",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:101",
-                                      "tags":  [
-                                                   "Электроника",
-                                                   "Грув",
-                                                   "Клубная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Техно",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:128",
-                                      "tags":  [
-                                                   "Электроника",
-                                                   "Ритмичная",
-                                                   "Андерграунд"
                                                ],
                                       "description":  ""
                                   },
