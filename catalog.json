@@ -6670,46 +6670,11 @@
                         { "name": "Эстетика заброшенных заводов", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:5",  "tags": ["IndustrialAmbient", "DarkAmbient", "FactoryAesthetics"], "description": "Холодные индустриальные шумы, мрачный эмбиент и меланхоличный эхо-ритм опустевших бетонных пространств." },
                         { "name": "Эпицентр трэш-метала: Bay Area 80-х", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:7",  "tags": ["BayAreaThrash", "ThrashMetal", "80sMetal"], "description": "Скоростные риффы, бешеный ритм и бунтарская агрессия зарождения калифорнийского трэш-метала восьмидесятых." },   
                         { "name": "Тренироваться под UK-гэридж", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:9",  "tags": ["UKGarage", "WorkoutMusic", "GarageBeats"], "description": "Энергичный свитч-бит, качающий басслайн и бодрый вокал для мощного спортивного прогресса." },
-                                    {
-                                        "name":  "Экстремальный нойз-рок",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:15",
-                                        "tags":  [
-                                                     "Рок",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Экспериментальный пост-рок",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:16",
-                                        "tags":  [
-                                                     "Рок",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Электронная музыка для релакса",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:12",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Спокойная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мрачная электронная музыка",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:11",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
+                        { "name": "Мрачная электронная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:11",  "tags": ["DarkElectro", "Darksynth", "IndustrialMusic"], "description": "Гипнотические тяжелые биты, гнетущие синтезаторы и мистическая атмосфера для погружения в темноту." },            
+                        { "name": "Расслабиться под электронику", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:12",  "tags": ["ChillElectronic", "AmbientGroove", "RelaxMusic"], "description": "Мягкие синтезаторные волны, размеренный бит и обволакивающий чиллаут для твоего максимального релакса." },
+                        { "name": "Электричество между нами", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:14",  "tags": ["SynthPop", "ElectroLove", "RomanticElectro"], "description": "Заряженные синти-поп ритмы, пульсирующие басы и чувственный вокал о непреодолимом взаимном притяжении." },
+                        { "name": "Экстремальный нойз-рок", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:15",  "tags": ["NoiseRock", "ExperimentalRock", "PostHardcore"], "description": "Стена яростного гитарного фидбэка, сокрушительный дисторшн и первобытный хаос для экстремального прослушивания." },
+                        { "name": "Эксперименты в пост-роке", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:16",  "tags": ["PostRock", "ExperimentalMusic", "MathRock"], "description": "Нестандартные структуры, гитарный нойз и глубокие звуковые ландшафты для исследователей жанра." },
                                     {
                                         "name":  "Чиллвейв для плавного выхода из рабочего режима",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:19",
@@ -6726,16 +6691,6 @@
                                         "tags":  [
                                                      "Метал",
                                                      "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Электричество между нами",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:14",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
                                                      "Подборка"
                                                  ],
                                         "description":  ""
