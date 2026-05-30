@@ -13,6 +13,8 @@
                         { "name": "Для концентрации", "deepLink": "yandexmusic://play-vibe/?stationId=activity:study-background",  "tags": ["FocusMusic", "AmbientChill", "StudyBeats"], "description": "Фоновые эмбиент-текстуры, ненавязчивый лоу-фай и монотонные ритмы для максимальной продуктивности и фокуса." },
                         { "name": "Просыпаюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:wake-up",  "tags": ["WakeUp", "MorningVibes", "AcousticChill"], "description": "Бодрящие утренние треки, мягкие акустические аккорды и позитивный ритм для идеального начала дня." },
                         { "name": "Работаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:work-background",  "tags": ["WorkMusic", "DeepFocus", "LofiBeats"], "description": "Размеренный лоу-фай, спокойный эмбиент и монотонные биты для максимальной концентрации на важных задачах." },
+                        { "name": "Тренируюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:workout",  "tags": ["WorkoutMusic", "FitnessMotivation", "GymBeats"], "description": "Мощные биты, взрывной рок и зажигательный электро-поп для максимальной мотивации и новых спортивных рекордов." },
+                        { "name": "1980-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:eighties",  "tags": ["80sMusic", "Synthpop", "RetroVibes"], "description": "Зажигательный синти-поп, неоновые ритмы и главные ностальгические хиты эпохи кассетных магнитофонов." },
                         {
                                       "name":  "Музыка для медитации",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:meditation",
@@ -5274,16 +5276,6 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "1980-е",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:eighties",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Ретро",
-                                                   "Зарубежная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "1990-е",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:nineties",
                                       "tags":  [
@@ -5523,16 +5515,6 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "Тренируюсь",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=activity:workout",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "Спорт",
-                                                   "Силовая"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "Агрессивное",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mood:aggressive",
                                       "tags":  [
@@ -5754,6 +5736,7 @@
                         { "name": "Сет Брейкбит", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:155",  "tags": ["Breakbeat", "BigBeat", "RaveVibes"], "description": "Ломаные фанковые ритмы, мощные басовые линии и бешеная энергетика олдскульного клубного рейва." },
                         { "name": "Сет Танцевальная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:16",  "tags": ["DanceMusic", "ClubHits", "PartyVibes"], "description": "Взрывные биты, зажигательные ритмы и главные танцевальные хиты для безудержного веселья на танцполе." },
                         { "name": "Сет UK-гэридж", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:167",  "tags": ["UKGarage", "2Step", "Bassline"], "description": "Синкопированные ломаные биты, качающий 2-степ бас и соул-вокал в атмосфере лондонского андеграунда." },          
+                        { "name": "Сет Бейс", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:169",  "tags": ["BassMusic", "Dubstep", "UkBass"], "description": "Тяжелые саб-басы, ломаные футуристические ритмы и мощная энергетика для главных ценителей низких частот." },
                         {
                                       "name":  "Электроника",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:68",
@@ -5771,16 +5754,6 @@
                                                    "Электроника",
                                                    "Энергичная",
                                                    "Мелодичная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Бейс",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:169",
-                                      "tags":  [
-                                                   "Электроника",
-                                                   "Бас",
-                                                   "Клубная"
                                                ],
                                       "description":  ""
                                   },
@@ -6582,17 +6555,9 @@
                         { "name": "Вечеринка под хип-хоп", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:22",  "tags": ["HipHopParty", "TrapVibes", "ClubRap"], "description": "Качающие басы, взрывные бэнгеры и дерзкие читки для самой горячей тусовки этого сезона." },
                         { "name": "Ужин при свечах", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:26",  "tags": ["CandlelightDinner", "RomanticJazz", "IntimateVibes"], "description": "Приглушенный джаз, нежные фортепианные переборы и чувственный вокал для идеального романтического вечера." },            
                         { "name": "Эмбиент для идеального сна", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:27",  "tags": ["SleepAmbient", "DeepRelax", "SleepMusic"], "description": "Глубокие космические пады, убаюкивающие шумы и медленные звуковые волны для быстрого комфортного засыпания." },
-                                    {
-                                        "name":  "Угарный пивной трэш-метал",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:28",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
+                        { "name": "Угарный пивной трэш-метал", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:28",  "tags": ["ThrashMetal", "BeerMetal", "CrossoverThrash"], "description": "Скоростные безумные риффы, алкогольный угар и безудержный слэм для настоящих любителей жесткого отрыва." },
+                        { "name": "В уютном кафе под тёплый лаунж", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:29",  "tags": ["LoungeCafe", "ChilloutVibes", "JazzHop"], "description": "Мягкие джазовые аккорды, расслабляющий чиллаут и согревающие кофейные ритмы для душевных встреч." },            
+                        {
                                         "name":  "Тяжелый как кувалда дэт-метал",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:30",
                                         "tags":  [
@@ -6608,16 +6573,6 @@
                                         "tags":  [
                                                      "Метал",
                                                      "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Тёплый лаунж для уютного кафе",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:29",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Спокойная",
                                                      "Подборка"
                                                  ],
                                         "description":  ""
@@ -13419,6 +13374,7 @@
                         { "name": "Дум-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adoommetal",  "tags": ["DoomMetal", "GothicRomance", "DarkLove"], "description": "Тягучие мрачные риффы, меланхоличная атмосфера и монументальная скорбь для преданных друг другу сердец." },
                         { "name": "Дэт-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adeathmetal",  "tags": ["DeathMetal", "BrutalRomance", "ExtremeLove"], "description": "Сокрушительные риффы, яростный бластбит и брутальная энергетика для самых экстремальных чувств." },
                         { "name": "Европейская музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aeurofolk",  "tags": ["EuroRomance", "Chanson", "ItalianLoveSongs"], "description": "Изысканный французский шансон, итальянские баллады и утонченный европоп для самых романтичных моментов." },
+                        { "name": "Иностранная авторская песня для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aforeignbard",  "tags": ["SingerSongwriter", "AcousticLove", "IndieFolk"], "description": "Искренние зарубежные баллады под гитару, глубокие тексты и проникновенный вокал влюбленных бардов." },
                         { "name": "Кантри для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Acountry",  "tags": ["CountryLove", "AcousticRomance", "CountryBallads"], "description": "Душевные акустические переборы, искренние истории и тёплая загородная романтика для двоих." },
                         { "name": "Классическая музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aclassicalmusic",  "tags": ["ClassicalMusic", "RomanticClassics", "InstrumentalLove"], "description": "Изящные скрипичные партии и великие романтические сонаты для утонченных свиданий." },
                         { "name": "Мировая классика для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aclassical",  "tags": ["ClassicalRomance", "MasterpiecesOfLove", "OrchestralLove"], "description": "Вечные симфонии, нежные фортепианные шедевры и возвышенные оркестровые мелодии великих композиторов." },
@@ -13438,6 +13394,8 @@
                         { "name": "Современный джаз для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aconjazz",  "tags": ["ModernJazz", "ContemporaryJazz", "JazzRomance"], "description": "Свежие импровизации, мягкий нео-свинг и чувственные современные баллады для стильного вечера." },
                         { "name": "Танцевальная музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adance",  "tags": ["DanceLove", "DancePop", "RomanticBeats"], "description": "Энергичные клубные ритмы, яркие поп-мелодии и зажигательный бит для безумных танцев вдвоем." },
                         { "name": "Фолк для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Afolkgenre",  "tags": ["FolkLove", "AcousticRomance", "IndieFolk"], "description": "Нежные акустические гитары, чарующие переливы флейты и искренние баллады о вечных чувствах." },
+                        { "name": "Фолк-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Afolkmetal",  "tags": ["FolkMetal", "PaganLove", "EpicMetal"], "description": "Мощные гитарные риффы, старинные флейты и яростные баллады о вечной средневековой любви." },
+                        { "name": "Фолк-рок для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Afolkrock",  "tags": ["FolkRock", "RomanticFolk", "AcousticRock"], "description": "Драйвовые акустические гитары, скрипичные переборы и искренние баллады о сильных, настоящих чувствах." },
                         { "name": "Хэви-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aclassicmetal",  "tags": ["HeavyMetal", "MetalBallads", "ClassicMetal"], "description": "Мощные гитарные риффы, пронзительный вокал и культовые классические баллады для железной любви." },
                         { "name": "Шедевры мировой классики для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aclassicalmasterpieces",  "tags": ["ClassicalMasterpieces", "RomanticClassics", "InstrumentalLove"], "description": "Бессмертные оркестровые шедевры и нежнейшие фортепианные сонаты для самых возвышенных чувств." },
                         { "name": "Экспериментальная музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aexperimental",  "tags": ["ExperimentalLove", "AvantGarde", "GlitchRomance"], "description": "Авангардные звуковые коллажи, глитч-арт и нестандартная романтика для исследователей новых чувственных граней." },
