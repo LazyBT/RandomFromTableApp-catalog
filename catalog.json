@@ -17,6 +17,8 @@
                         { "name": "1980-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:eighties",  "tags": ["80sMusic", "Synthpop", "RetroVibes"], "description": "Зажигательный синти-поп, неоновые ритмы и главные ностальгические хиты эпохи кассетных магнитофонов." },
                         { "name": "1950-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:fifties",  "tags": ["50sMusic", "RockAndRoll", "RetroVibes"], "description": "Энергичный рок-н-ролл, романтичные баллады и виниловый дух эпохи зарождения популярной музыки." },
                         { "name": "1990-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:nineties",  "tags": ["90sMusic", "Eurodance", "GrungeVibes"], "description": "Драйвовый гранж, евродэнс-хиты и искренний поп-рок золотой эпохи кассет и бунтарского духа." },
+                        { "name": "1970-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:seventies",  "tags": ["70sMusic", "ClassicRock", "DiscoVibes"], "description": "Зажигательное диско, бунтарский хард-рок и ламповый фанк золотой эпохи расклешенных брюк и винила." },
+                        { "name": "1960-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:sixties",  "tags": ["60sMusic", "ClassicRock", "PsychedelicVibes"], "description": "Психоделический рок, душевный соул и бунтарский поп-модерн эпохи цветов и музыкальной революции." },
                         {
                                       "name":  "Музыка для медитации",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:meditation",
@@ -5248,26 +5250,6 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "1960-е",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:sixties",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Ретро",
-                                                   "Зарубежная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "1970-е",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:seventies",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Ретро",
-                                                   "Зарубежная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "2000-е",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:zeroes",
                                       "tags":  [
@@ -5720,6 +5702,7 @@
                         { "name": "Сет UK-гэридж", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:167",  "tags": ["UKGarage", "2Step", "Bassline"], "description": "Синкопированные ломаные биты, качающий 2-степ бас и соул-вокал в атмосфере лондонского андеграунда." },          
                         { "name": "Сет Бейс", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:169",  "tags": ["BassMusic", "Dubstep", "UkBass"], "description": "Тяжелые саб-басы, ломаные футуристические ритмы и мощная энергетика для главных ценителей низких частот." },
                         { "name": "Сет EDM", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:174",  "tags": ["EDMSet", "FestivalVibes", "ElectroHouse"], "description": "Взрывные дропы, мощные клубные биты и эйфорическая энергетика главных фестивальных стадионов планеты." },
+                        { "name": "Сет Драм-н-бэйс", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:332",  "tags": ["DrumAndBass", "DnBSet", "Neurofunk"], "description": "Стремительные ломаные биты, глубокий пульсирующий бас и бешеная энергетика для мощного рейва." },
                         {
                                       "name":  "Электроника",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:68",
@@ -5737,16 +5720,6 @@
                                                    "Электроника",
                                                    "Энергичная",
                                                    "Мелодичная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Драм-н-бэйс",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:332",
-                                      "tags":  [
-                                                   "Быстрая",
-                                                   "Ломаная",
-                                                   "Энергичная"
                                                ],
                                       "description":  ""
                                   },
@@ -6532,26 +6505,8 @@
                         { "name": "В уютном кафе под тёплый лаунж", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:29",  "tags": ["LoungeCafe", "ChilloutVibes", "JazzHop"], "description": "Мягкие джазовые аккорды, расслабляющий чиллаут и согревающие кофейные ритмы для душевных встреч." },            
                         { "name": "Тяжелый как кувалда, дэт-метал", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:30",  "tags": ["DeathMetal", "BrutalRiffs", "Blastbeats"], "description": "Сокрушительные бластбиты, утробный гроулинг и брутальные риффы невероятной разрушительной мощности для фанатов экстрима." },
                         { "name": "Туманные пейзажи атмосферного блэк-метала", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:32",  "tags": ["AtmosphericBlackMetal", "AmbientBlack", "DepressiveMetal"], "description": "Сырые гитарные тремоло, меланхоличные клавишные и мрачный фолк в эстетике бесконечных северных лесов." },
-                                    {
-                                        "name":  "Музыка для праздника в деревне",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:34",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Для вечеринки"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Трэш-метал: ярость против системы",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:33",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Энергичная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
+                        { "name": "Ярость трэш-метала против системы", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:33",  "tags": ["ThrashMetal", "ProtestMusic", "MetalRiot"], "description": "Протестные скоростные риффы, бескомпромиссные тексты и сокрушительная агрессия против тоталитарного контроля и лжи." },            
+                        { "name": "Музыка для праздника в деревне", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:34",  "tags": ["ДеревенскийПраздник", "FolkParty", "НародныеПесни"], "description": "Задорные плясовые гармони, душевные народные песни и весёлые застольные хиты для шумного деревенского гулянья." },
                                     {
                                         "name":  "Традиционная и современная музыка африки",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:35",
@@ -13354,6 +13309,9 @@
                         { "name": "Фолк для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Afolkgenre",  "tags": ["FolkLove", "AcousticRomance", "IndieFolk"], "description": "Нежные акустические гитары, чарующие переливы флейты и искренние баллады о вечных чувствах." },
                         { "name": "Фолк-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Afolkmetal",  "tags": ["FolkMetal", "PaganLove", "EpicMetal"], "description": "Мощные гитарные риффы, старинные флейты и яростные баллады о вечной средневековой любви." },
                         { "name": "Фолк-рок для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Afolkrock",  "tags": ["FolkRock", "RomanticFolk", "AcousticRock"], "description": "Драйвовые акустические гитары, скрипичные переборы и искренние баллады о сильных, настоящих чувствах." },
+                        { "name": "Хард-рок для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Ahardrock",  "tags": ["HardRockLove", "ClassicRock", "RockBallads"], "description": "Мощные гитарные риффы, пронзительные соло и драйвовые баллады о всепоглощающей страсти и любви." },
+                        { "name": "Хардкор для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Ahardcore",  "tags": ["HardcoreLove", "PostHardcore", "MelodicHardcore"], "description": "Яростные гитарные риффы, взрывные брейкдауны и пронзительная, искренняя лирика о самых сильных чувствах." },
+                        { "name": "Хаус для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Ahouse",  "tags": ["HouseLove", "DeepHouse", "RomanticGrooves"], "description": "Романтический вокал, мягкий пульсирующий бит и гипнотический грув для незабываемых ночей вдвоем." },
                         { "name": "Хэви-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aclassicmetal",  "tags": ["HeavyMetal", "MetalBallads", "ClassicMetal"], "description": "Мощные гитарные риффы, пронзительный вокал и культовые классические баллады для железной любви." },
                         { "name": "Шедевры мировой классики для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aclassicalmasterpieces",  "tags": ["ClassicalMasterpieces", "RomanticClassics", "InstrumentalLove"], "description": "Бессмертные оркестровые шедевры и нежнейшие фортепианные сонаты для самых возвышенных чувств." },
                         { "name": "Экспериментальная музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aexperimental",  "tags": ["ExperimentalLove", "AvantGarde", "GlitchRomance"], "description": "Авангардные звуковые коллажи, глитч-арт и нестандартная романтика для исследователей новых чувственных граней." },
