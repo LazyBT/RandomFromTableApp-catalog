@@ -19,6 +19,12 @@
                         { "name": "1990-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:nineties",  "tags": ["90sMusic", "Eurodance", "GrungeVibes"], "description": "Драйвовый гранж, евродэнс-хиты и искренний поп-рок золотой эпохи кассет и бунтарского духа." },
                         { "name": "1970-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:seventies",  "tags": ["70sMusic", "ClassicRock", "DiscoVibes"], "description": "Зажигательное диско, бунтарский хард-рок и ламповый фанк золотой эпохи расклешенных брюк и винила." },
                         { "name": "1960-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:sixties",  "tags": ["60sMusic", "ClassicRock", "PsychedelicVibes"], "description": "Психоделический рок, душевный соул и бунтарский поп-модерн эпохи цветов и музыкальной революции." },
+                        { "name": "2010-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:tenths",  "tags": ["2010sMusic", "PopHits", "EDMera"], "description": "Эпоха стадионного EDM, доминирования хип-хопа, инди-попа и ярких треков из стриминговых плейлистов." },
+                        { "name": "Вечные хиты", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:the-greatest-hits",  "tags": ["GoldenHits", "ClassicMusic", "TimelessSongs"], "description": "Легендарные треки, проверенные временем шедевры и любимые мелодии, которые объединяют поколения слушателей." },
+                        { "name": "2020-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:twenties",  "tags": ["2020sMusic", "ModernHits", "TikTokTrends"], "description": "Тренды TikTok, атмосферный синтвейв, расцвет гиперпопа и новое звучание современной поп-культуры." },
+                        { "name": "2000-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:zeroes",  "tags": ["2000sMusic", "Y2KVibes", "PopHits"], "description": "Взрывной поп-рок, клубный R&B, расцвет хип-хопа и ностальгия по эпохе гламурных нулевых." },
+                        { "name": "Африканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:african",  "tags": ["AfricanMusic", "Afrobeat", "EthnicVibes"], "description": "Гипнотические полиритмы, аутентичные народные инструменты и современный афробит, заряжающие чистой солнечной энергией." },
+                        { "name": "Рок", "deepLink": "yandexmusic://play-vibe/?stationId=genre:allrock",  "tags": ["RockMusic", "GuitarRiffs", "RockVibes"], "description": "Мощные гитарные риффы, драйвовые барабаны и бунтарский дух свободы, заряжающие чистой энергией." },
                         {
                                       "name":  "Музыка для медитации",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:meditation",
@@ -336,16 +342,6 @@
                                                    "Поп",
                                                    "Национальная",
                                                    "Узбекская"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Рок",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:allrock",
-                                      "tags":  [
-                                                   "Гитарная",
-                                                   "Энергичная",
-                                                   "Классика"
                                                ],
                                       "description":  ""
                                   },
@@ -1196,16 +1192,6 @@
                                                    "Рок",
                                                    "Энергичная",
                                                    "Бунтарская"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Африканская музыка",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:african",
-                                      "tags":  [
-                                                   "Национальная",
-                                                   "Фолк",
-                                                   "Этническая"
                                                ],
                                       "description":  ""
                                   },
@@ -5236,46 +5222,6 @@
                                                    "Рок",
                                                    "Азиатская",
                                                    "Японская"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Вечные хиты",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:the-greatest-hits",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Ретро",
-                                                   "Хиты"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "2000-е",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:zeroes",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Ретро",
-                                                   "Зарубежная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "2010-е",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:tenths",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Современная",
-                                                   "Зарубежная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "2020-е",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=epoch:twenties",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Современная",
-                                                   "Зарубежная"
                                                ],
                                       "description":  ""
                                   },
@@ -13277,6 +13223,7 @@
                         { "name": "Блюз для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Ablues",  "tags": ["BluesRomance", "SlowBlues", "SensualMood"], "description": "Тягучие гитарные соло, томный вокал и чувственные ночные ритмы для двоих." },
                         { "name": "Брейкбит для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Abreakbeatgenre",  "tags": ["Breakbeat", "ElectronicRomance", "BreakbeatLove"], "description": "Ломаные ритмы, атмосферные синты и мощная энергетика для динамичных и страстных чувств." },
                         { "name": "Восточная музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aeastern",  "tags": ["OrientalLove", "ArabicRomance", "EasternMelodies"], "description": "Чарующие восточные инструменты, страстные напевы и чувственные мелодии для незабываемых романтических вечеров." },
+                        { "name": "Гиперпоп для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Ahyperpopgenre",  "tags": ["Hyperpop", "Glitchcore", "FutureLove"], "description": "Ускоренные глитч-биты, неоновые синтезаторы и ультраэмоциональный вокал о безумной любви цифровой эпохи." },
                         { "name": "Готический метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Agothicmetal",  "tags": ["GothicMetal", "DarkRomance", "SymphonicMetal"], "description": "Мрачные органные пассажи, тяжелые риффы и чувственные дуэты о трагичной, но бессмертной любви." },
                         { "name": "Даб для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adub",  "tags": ["DubRomance", "ReggaeLove", "ChillDub"], "description": "Глубокий обволакивающий бас, гипнотическое эхо и расслабленный ямайский вайб для романтического погружения." },
                         { "name": "Дабстеп для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adubstep",  "tags": ["MelodicDubstep", "LoveStep", "BassRomance"], "description": "Мощный вобл-бас, эмоциональные падения и нежный, парящий вокал для романтического рейва вдвоем." },
@@ -13285,6 +13232,11 @@
                         { "name": "Дум-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adoommetal",  "tags": ["DoomMetal", "GothicRomance", "DarkLove"], "description": "Тягучие мрачные риффы, меланхоличная атмосфера и монументальная скорбь для преданных друг другу сердец." },
                         { "name": "Дэт-метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Adeathmetal",  "tags": ["DeathMetal", "BrutalRomance", "ExtremeLove"], "description": "Сокрушительные риффы, яростный бластбит и брутальная энергетика для самых экстремальных чувств." },
                         { "name": "Европейская музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aeurofolk",  "tags": ["EuroRomance", "Chanson", "ItalianLoveSongs"], "description": "Изысканный французский шансон, итальянские баллады и утонченный европоп для самых романтичных моментов." },
+                        { "name": "Израильская поп-музыка для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aisraelipop",  "tags": ["IsraeliPop", "MizrahiLove", "HebrewSongs"], "description": "Чарующие средиземноморские мотивы, нежный иврит и современные поп-биты для самых искренних романтических моментов." },
+                        { "name": "Израильский рок для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aisraelirock",  "tags": ["IsraeliRock", "HebrewRock", "RockRomance"], "description": "Мелодичные гитарные соло, искренний иврит и чувственные рок-баллады для незабываемых тёплых вечеров." },
+                        { "name": "Израильский рэп и хип-хоп для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aisraelirap",  "tags": ["IsraeliRap", "HebrewHipHop", "LoveVibes"], "description": "Пронзительный ближневосточный речитатив, качающие биты и романтичные тексты о страсти на улицах Тель-Авива." },
+                        { "name": "Индастриал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aindustrial",  "tags": ["IndustrialLove", "EBM", "DarkElectro"], "description": "Скрежет металла, мрачные пульсирующие ритмы и темная, гипнотическая страсть для свиданий в стиле киберпанк." },
+                        { "name": "Инди для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aindie",  "tags": ["IndieLove", "DreamPop", "AcousticRomance"], "description": "Искренний акустический уют, мечтательный дрим-поп и меланхоличные баллады для самых тёплых моментов вдвоём." },
                         { "name": "Иностранная авторская песня для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aforeignbard",  "tags": ["SingerSongwriter", "AcousticLove", "IndieFolk"], "description": "Искренние зарубежные баллады под гитару, глубокие тексты и проникновенный вокал влюбленных бардов." },
                         { "name": "Иностранный рэп и хип-хоп для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aforeignrap",  "tags": ["LoveRap", "HipHopRomance", "RnBVibes"], "description": "Чувственные R&B-мелодии, мягкие биты и искренняя романтическая лирика от главных зарубежных исполнителей." },
                         { "name": "Кантри для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Acountry",  "tags": ["CountryLove", "AcousticRomance", "CountryBallads"], "description": "Душевные акустические переборы, искренние истории и тёплая загородная романтика для двоих." },
@@ -13319,7 +13271,9 @@
                         { "name": "Эмбиент для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aambientgenre",  "tags": ["AmbientLove", "ChillRomance", "SpaceVibes"], "description": "Космические звуковые ландшафты и невесомые мелодии для полного растворения друг в друге." },
                         { "name": "Эпический метал для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aepicmetal",  "tags": ["EpicMetal", "SymphonicMetal", "PowerMetalLove"], "description": "Мощные симфонические оркестровки, парящие гитарные соло и величественные баллады о вечной любви." },
                         { "name": "Эстрада для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aestrada",  "tags": ["СоветскаяЭстрада", "РомантикаРетро", "ПесниОЛюбви"], "description": "Душевные ретро-мелодии, трогательные поэтичные тексты и ностальгические оркестровки о самом главном чувстве." },
-                        { "name": "EDM для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aedmgenre",  "tags": ["EDMLove", "MelodicDubstep", "DanceRomance"], "description": "Энергичные фестивальные биты, взрывные дропы и вдохновляющие мелодии для влюбленных сердец на танцполе." }        
+                        { "name": "EDM для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aedmgenre",  "tags": ["EDMLove", "MelodicDubstep", "DanceRomance"], "description": "Энергичные фестивальные биты, взрывные дропы и вдохновляющие мелодии для влюбленных сердец на танцполе." },
+                        { "name": "IDM для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Aidmgenre",  "tags": ["IDM", "GlitchRomance", "IntelligentElectronic"], "description": "Сложные микробиты, глубокий атмосферный эмбиент и хрупкие цифровые мелодии для интеллектуальной романтики." },
+                        { "name": "J-Pop для влюблённых", "deepLink": "yandexmusic://play-vibe/?seeds=activity%3Abeloved%2Cgenre%3Ajapanesepop",  "tags": ["JPop", "JapanesePop", "AnimeRomance"], "description": "Яркие аниме-мелодии, искрящиеся неоновые биты и милый, трогательный вокал о первой любви." }
                                     ]
                 }
 }
