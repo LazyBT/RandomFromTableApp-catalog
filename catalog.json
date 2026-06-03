@@ -2,7 +2,6 @@
     "version":  11,
     "sources":  {
                     "waves":  [
-                        { "name": "Для влюблённых", "deepLink": "yandexmusic://play-vibe/?stationId=activity:beloved",  "tags": ["LoveSongs", "RomanticVibes", "MusicForLovers"], "description": "Романтические баллады, чувственные мелодии и нежные песни для идеальных моментов вдвоем." },          
                         { "name": "За рулём", "deepLink": "yandexmusic://play-vibe/?stationId=activity:driving",  "tags": ["DrivingMusic", "RoadTrip", "OnTheRoad"], "description": "Ритмичные дорожные хиты, качающий бас и бодрящие мелодии для твоих идеальных поездок." },         
                         { "name": "Засыпаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:fall-asleep",  "tags": ["SleepMusic", "Lullaby", "RelaxingSounds"], "description": "Успокаивающий эмбиент, нежные колыбельные и расслабляющие звуки природы для твоего крепкого сна." },        
                         { "name": "Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=activity:party",  "tags": ["PartyTime", "DanceHits", "ClubMusic"], "description": "Зажигательные танцевальные треки, мощные басы и безумная клубная атмосфера для твоей лучшей тусовки." },
@@ -23,7 +22,9 @@
                         { "name": "Вечные хиты", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:the-greatest-hits",  "tags": ["GoldenHits", "ClassicMusic", "TimelessSongs"], "description": "Легендарные треки, проверенные временем шедевры и любимые мелодии, которые объединяют поколения слушателей." },
                         { "name": "2020-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:twenties",  "tags": ["2020sMusic", "ModernHits", "TikTokTrends"], "description": "Тренды TikTok, атмосферный синтвейв, расцвет гиперпопа и новое звучание современной поп-культуры." },
                         { "name": "2000-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:zeroes",  "tags": ["2000sMusic", "Y2KVibes", "PopHits"], "description": "Взрывной поп-рок, клубный R&B, расцвет хип-хопа и ностальгия по эпохе гламурных нулевых." },
+                        { "name": "8 бит", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:bit-8",  "tags": ["8Bit", "Chiptune", "RetroGaming"], "description": "Ностальгические пиксельные ретро-мелодии, чиптюны и задорный звук старых игровых консолей вашего детства." },
                         { "name": "Африканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:african",  "tags": ["AfricanMusic", "Afrobeat", "EthnicVibes"], "description": "Гипнотические полиритмы, аутентичные народные инструменты и современный афробит, заряжающие чистой солнечной энергией." },
+                        { "name": "Для влюблённых", "deepLink": "yandexmusic://play-vibe/?stationId=activity:beloved",  "tags": ["LoveSongs", "RomanticVibes", "MusicForLovers"], "description": "Романтические баллады, чувственные мелодии и нежные песни для идеальных моментов вдвоем." },
                         { "name": "Рок", "deepLink": "yandexmusic://play-vibe/?stationId=genre:allrock",  "tags": ["RockMusic", "GuitarRiffs", "RockVibes"], "description": "Мощные гитарные риффы, драйвовые барабаны и бунтарский дух свободы, заряжающие чистой энергией." },
                         {
                                       "name":  "Музыка для медитации",
@@ -1552,16 +1553,6 @@
                                                    "Народная",
                                                    "Акустика",
                                                    "Традиционная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "8 бит",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=micro-genre:bit-8",
-                                      "tags":  [
-                                                   "Электроника",
-                                                   "Ретро",
-                                                   "Игровая"
                                                ],
                                       "description":  ""
                                   },
@@ -6431,11 +6422,14 @@
                                   }
                               ],
                     "at_vibe":  [
-                        { "name": "Турецкая этника на новый лад", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:2",  "tags": ["TurkishEthnic", "AnatolianBeats", "ModernEthno"], "description": "Древние анатолийские мотивы, восточные инструменты и стильные электронные биты для погружения." },    
-                        { "name": "Этника сальвадорских улиц", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:3",  "tags": ["SalvadoranEthnic", "StreetFolk", "CentralAmericanBeats"], "description": "Колоритные уличные ритмы, фольклорные напевы маримбы и живая карибская энергия Сальвадора." },
-                        { "name": "Эстетика заброшенных заводов", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:5",  "tags": ["IndustrialAmbient", "DarkAmbient", "FactoryAesthetics"], "description": "Холодные индустриальные шумы, мрачный эмбиент и меланхоличный эхо-ритм опустевших бетонных пространств." },
-                        { "name": "Эпицентр трэш-метала: Bay Area 80-х", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:7",  "tags": ["BayAreaThrash", "ThrashMetal", "80sMetal"], "description": "Скоростные риффы, бешеный ритм и бунтарская агрессия зарождения калифорнийского трэш-метала восьмидесятых." },   
+                        { "name": "Альтернативный метал и злой флоу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:441",  "tags": ["AltMetal", "NuMetal", "AngryFlow"], "description": "Тяжёлые риффы, яростный речитатив и взрывная агрессия на стыке метала и рэпкора." },
+                        { "name": "Забыть о бывших под R&B", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:598",  "tags": ["RnBHeals", "MovingOn", "IndependentVibes"], "description": "Качающие биты, уверенный вокал и исцеляющие вайбы для тех, кто начинает новую жизнь." },
+                        { "name": "Раствориться в нежном R&B", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:391",  "tags": ["SmoothRnB", "SlowJams", "SensualVibes"], "description": "Бархатный вокал, чувственные медленные биты и обволакивающая атмосфера романтики для полного расслабления." },
                         { "name": "Тренироваться под UK-гэридж", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:9",  "tags": ["UKGarage", "WorkoutMusic", "GarageBeats"], "description": "Энергичный свитч-бит, качающий басслайн и бодрый вокал для мощного спортивного прогресса." },
+                        { "name": "Турецкая этника на новый лад", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:2",  "tags": ["TurkishEthnic", "AnatolianBeats", "ModernEthno"], "description": "Древние анатолийские мотивы, восточные инструменты и стильные электронные биты для погружения." },    
+                        { "name": "Эпицентр трэш-метала: Bay Area 80-х", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:7",  "tags": ["BayAreaThrash", "ThrashMetal", "80sMetal"], "description": "Скоростные риффы, бешеный ритм и бунтарская агрессия зарождения калифорнийского трэш-метала восьмидесятых." },
+                        { "name": "Эстетика заброшенных заводов", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:5",  "tags": ["IndustrialAmbient", "DarkAmbient", "FactoryAesthetics"], "description": "Холодные индустриальные шумы, мрачный эмбиент и меланхоличный эхо-ритм опустевших бетонных пространств." },
+                        { "name": "Этника сальвадорских улиц", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:3",  "tags": ["SalvadoranEthnic", "StreetFolk", "CentralAmericanBeats"], "description": "Колоритные уличные ритмы, фольклорные напевы маримбы и живая карибская энергия Сальвадора." },
                         { "name": "Мрачная электронная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:11",  "tags": ["DarkElectro", "Darksynth", "IndustrialMusic"], "description": "Гипнотические тяжелые биты, гнетущие синтезаторы и мистическая атмосфера для погружения в темноту." },            
                         { "name": "Расслабиться под электронику", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:12",  "tags": ["ChillElectronic", "AmbientGroove", "RelaxMusic"], "description": "Мягкие синтезаторные волны, размеренный бит и обволакивающий чиллаут для твоего максимального релакса." },
                         { "name": "Электричество между нами", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:14",  "tags": ["SynthPop", "ElectroLove", "RomanticElectro"], "description": "Заряженные синти-поп ритмы, пульсирующие басы и чувственный вокал о непреодолимом взаимном притяжении." },
@@ -8677,17 +8671,7 @@
                                                      "chillout"
                                                  ],
                                         "description":  "Обволакивающий поток теплых аналоговых клавиш, чувственного вокала и мягких грувов, который согревает изнутри и создает ощущение абсолютного уюта и душевного комфорта."
-                                    },
-                                    {                        
-                                        "name":  "R&B для релакса",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:391",
-                                        "tags":  [
-                                                     "r_n_b",
-                                                     "chill",
-                                                     "vibe"
-                                                 ],
-                                        "description":  "Плавный поток чувственных мелодий и мягкого баса, который создает атмосферу неги и безмятежности, идеально подходящую для того, чтобы отпустить все заботы дня."
-                                    },                        
+                                    },    
                                     {
                                         "name":  "На утреннюю пробежку под бодрый хаус",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:397",
@@ -8867,16 +8851,6 @@
                                                      "Для спорта"
                                                  ],
                                         "description":  ""
-                                    },
-                                    {
-                                        "name":  "Альтернативный метал и злой флоу",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:441",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Энергичная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  "Взрывной микс тяжёлых гитар, агрессивной читки и мрачной энергии, превращающий внутренний протест в мощный звуковой удар."
                                     },
                                     {
                                         "name":  "Услышать голос времени в хип-хопе",
@@ -9781,16 +9755,6 @@
                                     {
                                         "name":  "Расслабиться перед сном",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:595",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "R\u0026B треки о расставании",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:598",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Атмосферная",
