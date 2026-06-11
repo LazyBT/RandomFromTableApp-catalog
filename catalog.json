@@ -14,6 +14,7 @@
                         { "name": "Авангардный джаз", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-garde-jazz",  "tags": ["AvantGardeJazz", "FreeJazz", "ExperimentalMusic"], "description": "Смелые импровизации, непредсказуемые ритмические структуры и полная свобода самовыражения вне привычных музыкальных границ." },
                         { "name": "Авангардный метал", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-garde-metal",  "tags": ["AvantGardeMetal", "ExperimentalMetal", "ExtremeMusic"], "description": "Хаотичные структуры, театральный вокал и безумный коктейль жанров, разрушающий привычные каноны тяжелой музыки." },
                         { "name": "Авангардный поп", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-pop",  "tags": ["AvantPop", "ExperimentalPop", "ArtPop"], "description": "Причудливые электронные текстуры, экспериментальные вокальные структуры и концептуальный глитч-арт для ценителей необычной поп-музыки." },
+                        { "name": "Альтернатива", "deepLink": "yandexmusic://play-vibe/?stationId=genre:alternative",  "tags": ["AlternativeRock", "IndieScene", "AltMusic"], "description": "Бунтарский дух, нестандартные гитарные риффы и искренний вокал против канонов мейнстрима." },
                         { "name": "Авторская песня", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bard",  "tags": ["АвторскаяПесня", "Барды", "Акустика"], "description": "Душевные акустические гитарные аккорды, искренние поэтичные тексты и доверительная атмосфера старых бардовских песен." },
                         { "name": "Африканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:african",  "tags": ["AfricanMusic", "Afrobeat", "EthnicVibes"], "description": "Гипнотические полиритмы, аутентичные народные инструменты и современный афробит, заряжающие чистой солнечной энергией." },
                         { "name": "Бег", "deepLink": "yandexmusic://play-vibe/?stationId=activity:run",  "tags": ["RunningMusic", "WorkoutPace", "CardioVibes"], "description": "Динамичные ритмы, мощные биты и бодрящие треки для поддержания твоего идеального темпа." },
@@ -667,16 +668,6 @@
                                                    "Электроника",
                                                    "Танцевальная",
                                                    "Ломаная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Альтернатива",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:alternative",
-                                      "tags":  [
-                                                   "Рок",
-                                                   "Зарубежная",
-                                                   "Энергичная"
                                                ],
                                       "description":  ""
                                   },
