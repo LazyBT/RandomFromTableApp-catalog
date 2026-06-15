@@ -15,10 +15,12 @@
                         { "name": "Авангардный джаз", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-garde-jazz",  "tags": ["AvantGardeJazz", "FreeJazz", "ExperimentalMusic"], "description": "Смелые импровизации, непредсказуемые ритмические структуры и полная свобода самовыражения вне привычных музыкальных границ." },
                         { "name": "Авангардный метал", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-garde-metal",  "tags": ["AvantGardeMetal", "ExperimentalMetal", "ExtremeMusic"], "description": "Хаотичные структуры, театральный вокал и безумный коктейль жанров, разрушающий привычные каноны тяжелой музыки." },
                         { "name": "Авангардный поп", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-pop",  "tags": ["AvantPop", "ExperimentalPop", "ArtPop"], "description": "Причудливые электронные текстуры, экспериментальные вокальные структуры и концептуальный глитч-арт для ценителей необычной поп-музыки." },
+                        { "name": "Авторская песня", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bard",  "tags": ["АвторскаяПесня", "Барды", "Акустика"], "description": "Душевные акустические гитарные аккорды, искренние поэтичные тексты и доверительная атмосфера старых бардовских песен." },
                         { "name": "Азербайджанская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:azerbaijani",  "tags": ["AzerbaijanMusic", "Mugham", "BakuVibes"], "description": "Чарующие узоры мугама, нежные струны тара и современные ритмы солнечного Баку." },
+                        { "name": "Азербайджанская поп-музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:azerbaijanpop",  "tags": ["AzeriPop", "MeykhanaPop", "BakuHits"], "description": "Зажигательные бакинские ритмы, колоритные восточные мотивы и стильный современный поп-вокал для отличного настроения." },
                         { "name": "Альтернатива", "deepLink": "yandexmusic://play-vibe/?stationId=genre:alternative",  "tags": ["AlternativeRock", "IndieScene", "AltMusic"], "description": "Бунтарский дух, нестандартные гитарные риффы и искренний вокал против канонов мейнстрима." },
                         { "name": "Альтернативный метал", "deepLink": "yandexmusic://play-vibe/?stationId=genre:alternativemetal",  "tags": ["AltMetal", "AlternativeRock", "HeavyRiffs"], "description": "Тяжёлые риффы, гранжевая мелодичность и надрывный вокал, ломающие стереотипы классического метала." },
-                        { "name": "Авторская песня", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bard",  "tags": ["АвторскаяПесня", "Барды", "Акустика"], "description": "Душевные акустические гитарные аккорды, искренние поэтичные тексты и доверительная атмосфера старых бардовских песен." },
+                        { "name": "Американская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:amerfolk",  "tags": ["AmericanMusic", "USAmusic", "BillboardHits"], "description": "Колоритное путешествие от кантри и блюза до главных поп- и хип-хоп-хитов мировых чартов." },
                         { "name": "Африканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:african",  "tags": ["AfricanMusic", "Afrobeat", "EthnicVibes"], "description": "Гипнотические полиритмы, аутентичные народные инструменты и современный афробит, заряжающие чистой солнечной энергией." },
                         { "name": "Бег", "deepLink": "yandexmusic://play-vibe/?stationId=activity:run",  "tags": ["RunningMusic", "WorkoutPace", "CardioVibes"], "description": "Динамичные ритмы, мощные биты и бодрящие треки для поддержания твоего идеального темпа." },
                         { "name": "В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=activity:road-trip",  "tags": ["RoadTrip", "TravelMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
@@ -32,21 +34,12 @@
                         { "name": "Поп", "deepLink": "yandexmusic://play-vibe/?stationId=genre:pop",  "tags": ["PopMusic", "TopHits", "PopCulture"], "description": "Яркие мелодии, зажигательные ритмы и главные мировые хиты для отличного настроения каждый день." },
                         { "name": "Просыпаюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:wake-up",  "tags": ["WakeUp", "MorningVibes", "AcousticChill"], "description": "Бодрящие утренние треки, мягкие акустические аккорды и позитивный ритм для идеального начала дня." },
                         { "name": "Работаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:work-background",  "tags": ["WorkMusic", "DeepFocus", "LofiBeats"], "description": "Размеренный лоу-фай, спокойный эмбиент и монотонные биты для максимальной концентрации на важных задачах." },
+                        { "name": "Реггетон", "deepLink": "yandexmusic://play-vibe/?stationId=genre:reggaeton",  "tags": ["Reggaeton", "LatinoBeat", "Dembow"], "description": "Страстные латиноамериканские ритмы, качающий бит дембоу и зажигательный вокал для жарких танцев." },
                         { "name": "Рок", "deepLink": "yandexmusic://play-vibe/?stationId=genre:allrock",  "tags": ["RockMusic", "GuitarRiffs", "RockVibes"], "description": "Мощные гитарные риффы, драйвовые барабаны и бунтарский дух свободы, заряжающие чистой энергией." },
                         { "name": "Свидание", "deepLink": "yandexmusic://play-vibe/?stationId=activity:romantic-date",  "tags": ["DateNight", "RomanticVibes", "LoveSongs"], "description": "Романтические баллады, чувственный джаз и нежный поп для создания идеальной интимной атмосферы." },
                         { "name": "Секс", "deepLink": "yandexmusic://play-vibe/?stationId=activity:sex",  "tags": ["SensualRnb", "IntimateVibes", "SlowJams"], "description": "Чувственный R&B, гипнотический нео-соул и интимные медленные ритмы для незабываемой страстной ночи." },
                         { "name": "Тренируюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:workout",  "tags": ["WorkoutMusic", "FitnessMotivation", "GymBeats"], "description": "Мощные биты, взрывной рок и зажигательный электро-поп для максимальной мотивации и новых спортивных рекордов." },
                         { "name": "Эмбиент", "deepLink": "yandexmusic://play-vibe/?stationId=genre:ambientgenre",  "tags": ["Ambient", "Drone", "AtmosphericMusic"], "description": "Обволакивающие звуковые ландшафты, медитативные текстуры и гипнотические пространства для глубокого погружения и релаксации." },          
-                        {
-                                      "name":  "Реггетон",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:reggaeton",
-                                      "tags":  [
-                                                   "латино",
-                                                   "dancehall",
-                                                   "urbano"
-                                               ],
-                                      "description":  "Энергичный музыкальный жанр с латиноамериканскими корнями, который мгновенно узнается по мощному ритму «дем-боу» и провокационному танцевальному драйву."
-                                  },
                                   {
                                       "name":  "Русская эстрада",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:rusestrada",
@@ -968,16 +961,6 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "Азербайджанская поп-музыка",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:azerbaijanpop",
-                                      "tags":  [
-                                                   "Национальная",
-                                                   "Восточная",
-                                                   "Поп"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "Металкор",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:metalcoregenre",
                                       "tags":  [
@@ -1204,16 +1187,6 @@
                                                    "Латина",
                                                    "Поп",
                                                    "Танцевальная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Американская музыка",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:amerfolk",
-                                      "tags":  [
-                                                   "Поп",
-                                                   "Зарубежная",
-                                                   "Разное"
                                                ],
                                       "description":  ""
                                   },
