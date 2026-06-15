@@ -16,6 +16,7 @@
                         { "name": "Авангардный метал", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-garde-metal",  "tags": ["AvantGardeMetal", "ExperimentalMetal", "ExtremeMusic"], "description": "Хаотичные структуры, театральный вокал и безумный коктейль жанров, разрушающий привычные каноны тяжелой музыки." },
                         { "name": "Авангардный поп", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:avant-pop",  "tags": ["AvantPop", "ExperimentalPop", "ArtPop"], "description": "Причудливые электронные текстуры, экспериментальные вокальные структуры и концептуальный глитч-арт для ценителей необычной поп-музыки." },
                         { "name": "Авторская песня", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bard",  "tags": ["АвторскаяПесня", "Барды", "Акустика"], "description": "Душевные акустические гитарные аккорды, искренние поэтичные тексты и доверительная атмосфера старых бардовских песен." },
+                        { "name": "Агрессивное", "deepLink": "yandexmusic://play-vibe/?stationId=mood:aggressive",  "tags": ["AggressiveMusic", "HeavyBeats", "RawEnergy"], "description": "Яростные гитарные риффы, взрывной бит и сокрушительный вокал для максимального выброса адреналина." },
                         { "name": "Азербайджанская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:azerbaijani",  "tags": ["AzerbaijanMusic", "Mugham", "BakuVibes"], "description": "Чарующие узоры мугама, нежные струны тара и современные ритмы солнечного Баку." },
                         { "name": "Азербайджанская поп-музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:azerbaijanpop",  "tags": ["AzeriPop", "MeykhanaPop", "BakuHits"], "description": "Зажигательные бакинские ритмы, колоритные восточные мотивы и стильный современный поп-вокал для отличного настроения." },
                         { "name": "Альтернатива", "deepLink": "yandexmusic://play-vibe/?stationId=genre:alternative",  "tags": ["AlternativeRock", "IndieScene", "AltMusic"], "description": "Бунтарский дух, нестандартные гитарные риффы и искренний вокал против канонов мейнстрима." },
@@ -5286,16 +5287,6 @@
                                                    "Разное",
                                                    "Обучение",
                                                    "Речь"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Агрессивное",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mood:aggressive",
-                                      "tags":  [
-                                                   "Настроение",
-                                                   "Энергичная",
-                                                   "Тяжелая"
                                                ],
                                       "description":  ""
                                   },
