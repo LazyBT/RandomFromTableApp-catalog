@@ -24,9 +24,15 @@
                         { "name": "Альтернативный инди-рок", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:alternative-indie-rock",  "tags": ["IndieRock", "Alternative", "LoFiVibes"], "description": "Искренние гитарные мелодии, самобытный вокал и дух независимой сцены вне рамок поп-мейнстрима." },
                         { "name": "Альтернативный метал", "deepLink": "yandexmusic://play-vibe/?stationId=genre:alternativemetal",  "tags": ["AltMetal", "AlternativeRock", "HeavyRiffs"], "description": "Тяжёлые риффы, гранжевая мелодичность и надрывный вокал, ломающие стереотипы классического метала." },
                         { "name": "Альтернативный поп-рок", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:alternative-pop-rock",  "tags": ["PopRock", "Alternative", "IndiePop"], "description": "Драйвовые гитарные риффы, цепляющие поп-мелодии и независимый дух современной альтернативной сцены." },
+                        { "name": "Альтернативный фолк", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:alternative-folk",  "tags": ["AltFolk", "IndieFolk", "DarkFolk"], "description": "Самобытные акустические переборы, мрачные баллады и инди-звучание, переосмысляющее традиционные народные мотивы." },
+                        { "name": "Альтернативный хип-хоп", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:alternative-hip-hop",  "tags": ["AltHipHop", "ExperimentalRap", "IndieHipHop"], "description": "Экспериментальные биты, нестандартные поэтичные тексты и эклектичное звучание за рамками привычного рэп-мейнстрима." },
                         { "name": "Американская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:amerfolk",  "tags": ["AmericanMusic", "USAmusic", "BillboardHits"], "description": "Колоритное путешествие от кантри и блюза до главных поп- и хип-хоп-хитов мировых чартов." },
+                        { "name": "Американский пауэр-метал", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:us-power-metal",  "tags": ["USPM", "PowerMetal", "HeavyMetal"], "description": "Скоростные агрессивные риффы, мощный вокал и напористый драйв классической американской школы металла." },
                         { "name": "Аниме", "deepLink": "yandexmusic://play-vibe/?stationId=genre:animemusic",  "tags": ["AnimeOST", "JRock", "JPop"], "description": "Динамичный Джей-рок, трогательные баллады и культовые опенинги для погружения в любимые рисованные миры." },
                         { "name": "Арабеска", "deepLink": "yandexmusic://play-vibe/?stationId=genre:arabesquemusic",  "tags": ["Arabesque", "OrientalMusic", "TraditionalClassic"], "description": "Изящные восточные орнаменты, гипнотические струнные переливы и завораживающие ритмы утонченной арабской классики." },
+                        { "name": "Арабский поп", "deepLink": "yandexmusic://play-vibe/?stationId=genre:arabicpop",  "tags": ["ArabicPop", "MiddleEasternVibes", "OrientalPop"], "description": "Зажигательные восточные ритмы, современные биты и чувственный вокал главных звезд арабской эстрады." },
+                        { "name": "Арабский рэп и хип-хоп", "deepLink": "yandexmusic://play-vibe/?stationId=genre:arabicrap",  "tags": ["ArabicRap", "MiddleEastHipHop", "TrapArabic"], "description": "Мощные восточные биты, аутентичный речитатив и дерзкий современный хип-хоп колорит Ближнего Востока." },
+                        { "name": "Аргентинское танго", "deepLink": "yandexmusic://play-vibe/?stationId=genre:argentinetango",  "tags": ["ArgentineTango", "TangoMusic", "MilongaVibes"], "description": "Страстные переборы бандонеона, драматичный ритм и чувственные мелодии для погружения в атмосферу Буэнос-Айреса." },
                         { "name": "Африканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:african",  "tags": ["AfricanMusic", "Afrobeat", "EthnicVibes"], "description": "Гипнотические полиритмы, аутентичные народные инструменты и современный афробит, заряжающие чистой солнечной энергией." },
                         { "name": "Бег", "deepLink": "yandexmusic://play-vibe/?stationId=activity:run",  "tags": ["RunningMusic", "WorkoutPace", "CardioVibes"], "description": "Динамичные ритмы, мощные биты и бодрящие треки для поддержания твоего идеального темпа." },
                         { "name": "В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=activity:road-trip",  "tags": ["RoadTrip", "TravelMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
@@ -38,7 +44,10 @@
                         { "name": "Засыпаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:fall-asleep",  "tags": ["SleepMusic", "Lullaby", "RelaxingSounds"], "description": "Успокаивающий эмбиент, нежные колыбельные и расслабляющие звуки природы для твоего крепкого сна." },        
                         { "name": "Музыка для медитации", "deepLink": "yandexmusic://play-vibe/?stationId=genre:meditation",  "tags": ["MeditationMusic", "Ambient", "Mindfulness"], "description": "Умиротворяющие звуки природы, плавные эмбиент-текстуры и глубокие вибрации для обретения внутреннего спокойствия." },
                         { "name": "Музыка из мультфильмов", "deepLink": "yandexmusic://play-vibe/?stationId=genre:animated",  "tags": ["CartoonMusic", "Soundtracks", "ChildhoodMemories"], "description": "Ностальгические песни, оркестровые сказочные темы и добрые мелодии из любимых анимационных шедевров." },
+                        { "name": "Музыка из фильмов", "deepLink": "yandexmusic://play-vibe/?stationId=genre:films",  "tags": ["OST", "CinemaMusic", "Soundtracks"], "description": "Эпические симфонии, культовые саундтреки и кинематографичные мелодии, мгновенно оживляющие кадры любимых шедевров." },
+                        { "name": "Опера и вокал", "deepLink": "yandexmusic://play-vibe/?stationId=genre:vocal",  "tags": ["Opera", "ClassicalVocal", "BelCanto"], "description": "Величественные арии, мощные классические сопрано и драматические вокальные шедевры великих оперных театров." },
                         { "name": "Поп", "deepLink": "yandexmusic://play-vibe/?stationId=genre:pop",  "tags": ["PopMusic", "TopHits", "PopCulture"], "description": "Яркие мелодии, зажигательные ритмы и главные мировые хиты для отличного настроения каждый день." },
+                        { "name": "Постпанк", "deepLink": "yandexmusic://play-vibe/?stationId=genre:postpunk",  "tags": ["PostPunk", "DarkWave", "NewWave"], "description": "Мрачные басовые линии, холодные синтезаторы и меланхоличный вокал в лучших традициях андеграунда." },
                         { "name": "Просыпаюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:wake-up",  "tags": ["WakeUp", "MorningVibes", "AcousticChill"], "description": "Бодрящие утренние треки, мягкие акустические аккорды и позитивный ритм для идеального начала дня." },
                         { "name": "Работаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:work-background",  "tags": ["WorkMusic", "DeepFocus", "LofiBeats"], "description": "Размеренный лоу-фай, спокойный эмбиент и монотонные биты для максимальной концентрации на важных задачах." },
                         { "name": "Реггетон", "deepLink": "yandexmusic://play-vibe/?stationId=genre:reggaeton",  "tags": ["Reggaeton", "LatinoBeat", "Dembow"], "description": "Страстные латиноамериканские ритмы, качающий бит дембоу и зажигательный вокал для жарких танцев." },
@@ -50,36 +59,6 @@
                         { "name": "Секс", "deepLink": "yandexmusic://play-vibe/?stationId=activity:sex",  "tags": ["SensualRnb", "IntimateVibes", "SlowJams"], "description": "Чувственный R&B, гипнотический нео-соул и интимные медленные ритмы для незабываемой страстной ночи." },
                         { "name": "Тренируюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:workout",  "tags": ["WorkoutMusic", "FitnessMotivation", "GymBeats"], "description": "Мощные биты, взрывной рок и зажигательный электро-поп для максимальной мотивации и новых спортивных рекордов." },
                         { "name": "Эмбиент", "deepLink": "yandexmusic://play-vibe/?stationId=genre:ambientgenre",  "tags": ["Ambient", "Drone", "AtmosphericMusic"], "description": "Обволакивающие звуковые ландшафты, медитативные текстуры и гипнотические пространства для глубокого погружения и релаксации." },          
-                                  {
-                                      "name":  "Музыка из фильмов",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:films",
-                                      "tags":  [
-                                                   "Саундтреки",
-                                                   "Кино",
-                                                   "Эпичная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Опера и вокал",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:vocal",
-                                      "tags":  [
-                                                   "Классика",
-                                                   "Вокал",
-                                                   "Театр"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Постпанк",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:postpunk",
-                                      "tags":  [
-                                                   "Рок",
-                                                   "Мрачная",
-                                                   "80-е"
-                                               ],
-                                      "description":  ""
-                                  },
                                   {
                                       "name":  "Русская музыка",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:rusfolk",
@@ -527,16 +506,6 @@
                                                    "Метал",
                                                    "Мрачная",
                                                    "Симфоник"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Арабский рэп и хип-хоп",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:arabicrap",
-                                      "tags":  [
-                                                   "Хип-хоп",
-                                                   "Национальная",
-                                                   "Восточная"
                                                ],
                                       "description":  ""
                                   },
@@ -1031,16 +1000,6 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "Арабский поп",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:arabicpop",
-                                      "tags":  [
-                                                   "Национальная",
-                                                   "Восточная",
-                                                   "Поп"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "Ска",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:ska",
                                       "tags":  [
@@ -1217,16 +1176,6 @@
                                                    "Поп",
                                                    "Национальная",
                                                    "Арабская"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Аргентинское танго",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:argentinetango",
-                                      "tags":  [
-                                                   "Танцевальная",
-                                                   "Латина",
-                                                   "Ретро"
                                                ],
                                       "description":  ""
                                   },
@@ -1507,36 +1456,6 @@
                                                    "Электроника",
                                                    "Бейс",
                                                    "Британская"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Альтернативный фолк",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=micro-genre:alternative-folk",
-                                      "tags":  [
-                                                   "Фолк",
-                                                   "Инди",
-                                                   "Спокойная"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Альтернативный хип-хоп",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=micro-genre:alternative-hip-hop",
-                                      "tags":  [
-                                                   "Хип-хоп",
-                                                   "Зарубежная",
-                                                   "Андеграунд"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Американский пауэр-метал",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=micro-genre:us-power-metal",
-                                      "tags":  [
-                                                   "Метал",
-                                                   "Зарубежная",
-                                                   "Энергичная"
                                                ],
                                       "description":  ""
                                   },
