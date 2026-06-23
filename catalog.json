@@ -37,10 +37,12 @@
                         { "name": "Арабский рэп и хип-хоп", "deepLink": "yandexmusic://play-vibe/?stationId=genre:arabicrap",  "tags": ["ArabicRap", "MiddleEastHipHop", "TrapArabic"], "description": "Мощные восточные биты, аутентичный речитатив и дерзкий современный хип-хоп колорит Ближнего Востока." },
                         { "name": "Аргентинское танго", "deepLink": "yandexmusic://play-vibe/?stationId=genre:argentinetango",  "tags": ["ArgentineTango", "TangoMusic", "MilongaVibes"], "description": "Страстные переборы бандонеона, драматичный ритм и чувственные мелодии для погружения в атмосферу Буэнос-Айреса." },
                         { "name": "Армянская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:armenian",  "tags": ["ArmenianMusic", "Duduk", "FolkMusic"], "description": "Завораживающие переливы дудука, глубокие народные баллады и современные ритмы с богатым национальным колоритом." },
+                        { "name": "Арт-панк", "deepLink": "yandexmusic://play-vibe/?stationId=micro-genre:art-punk",  "tags": ["ArtPunk", "PostPunk", "AvantGarde"], "description": "Авангардное безумие, угловатые гитарные риффы и бескомпромиссная экспрессия независимого экспериментального панка." },
                         { "name": "Африканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:african",  "tags": ["AfricanMusic", "Afrobeat", "EthnicVibes"], "description": "Гипнотические полиритмы, аутентичные народные инструменты и современный афробит, заряжающие чистой солнечной энергией." },
                         { "name": "Балканская музыка", "deepLink": "yandexmusic://play-vibe/?stationId=genre:balkan",  "tags": ["BalkanMusic", "GypsyBrass", "FolkDance"], "description": "Безудержная энергия медных духовых, взрывные цыганские ритмы и колоритные балканские народные мотивы." },
                         { "name": "Бег", "deepLink": "yandexmusic://play-vibe/?stationId=activity:run",  "tags": ["RunningMusic", "WorkoutPace", "CardioVibes"], "description": "Динамичные ритмы, мощные биты и бодрящие треки для поддержания твоего идеального темпа." },
                         { "name": "Бейс", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bassgenre",  "tags": ["BassMusic", "Dubstep", "UKBass"], "description": "Глубокие вибрирующие суббасы, ломаные ритмы и мощная футуристическая энергия современных клубных танцполов." },
+                        { "name": "Бибоп", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bebopgenre",  "tags": ["Bebop", "ModernJazz", "ClassicJazz"], "description": "Стремительные темпы, сложные виртуозные импровизации и революционная гармония классического модернистского джаза." },
                         { "name": "В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=activity:road-trip",  "tags": ["RoadTrip", "TravelMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
                         { "name": "Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=activity:party",  "tags": ["PartyTime", "DanceHits", "ClubMusic"], "description": "Зажигательные танцевальные треки, мощные басы и безумная клубная атмосфера для твоей лучшей тусовки." },
                         { "name": "Вечные хиты", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:the-greatest-hits",  "tags": ["GoldenHits", "ClassicMusic", "TimelessSongs"], "description": "Легендарные треки, проверенные временем шедевры и любимые мелодии, которые объединяют поколения слушателей." },
@@ -48,6 +50,7 @@
                         { "name": "Для концентрации", "deepLink": "yandexmusic://play-vibe/?stationId=activity:study-background",  "tags": ["FocusMusic", "AmbientChill", "StudyBeats"], "description": "Фоновые эмбиент-текстуры, ненавязчивый лоу-фай и монотонные ритмы для максимальной продуктивности и фокуса." },
                         { "name": "За рулём", "deepLink": "yandexmusic://play-vibe/?stationId=activity:driving",  "tags": ["DrivingMusic", "RoadTrip", "OnTheRoad"], "description": "Ритмичные дорожные хиты, качающий бас и бодрящие мелодии для твоих идеальных поездок." },         
                         { "name": "Засыпаю", "deepLink": "yandexmusic://play-vibe/?stationId=activity:fall-asleep",  "tags": ["SleepMusic", "Lullaby", "RelaxingSounds"], "description": "Успокаивающий эмбиент, нежные колыбельные и расслабляющие звуки природы для твоего крепкого сна." },        
+                        { "name": "Колыбельные", "deepLink": "yandexmusic://play-vibe/?stationId=genre:lullaby",  "tags": ["Колыбельные", "Lullaby", "SleepMusic"], "description": "Нежные убаюкивающие мелодии, мягкое звучание и атмосфера абсолютного спокойствия для безмятежного детского сна." },
                         { "name": "Музыка для медитации", "deepLink": "yandexmusic://play-vibe/?stationId=genre:meditation",  "tags": ["MeditationMusic", "Ambient", "Mindfulness"], "description": "Умиротворяющие звуки природы, плавные эмбиент-текстуры и глубокие вибрации для обретения внутреннего спокойствия." },
                         { "name": "Музыка из мультфильмов", "deepLink": "yandexmusic://play-vibe/?stationId=genre:animated",  "tags": ["CartoonMusic", "Soundtracks", "ChildhoodMemories"], "description": "Ностальгические песни, оркестровые сказочные темы и добрые мелодии из любимых анимационных шедевров." },
                         { "name": "Музыка из фильмов", "deepLink": "yandexmusic://play-vibe/?stationId=genre:films",  "tags": ["OST", "CinemaMusic", "Soundtracks"], "description": "Эпические симфонии, культовые саундтреки и кинематографичные мелодии, мгновенно оживляющие кадры любимых шедевров." },
@@ -68,16 +71,6 @@
                         { "name": "Традиционный джаз", "deepLink": "yandexmusic://play-vibe/?stationId=genre:tradjazz",  "tags": ["TraditionalJazz", "Dixieland", "ClassicJazz"], "description": "Классический сплит новоорлеанского диксиленда, виртуозные импровизации и теплый ностальгический свинг золотой эпохи." },
                         { "name": "Тренируюсь", "deepLink": "yandexmusic://play-vibe/?stationId=activity:workout",  "tags": ["WorkoutMusic", "FitnessMotivation", "GymBeats"], "description": "Мощные биты, взрывной рок и зажигательный электро-поп для максимальной мотивации и новых спортивных рекордов." },
                         { "name": "Эмбиент", "deepLink": "yandexmusic://play-vibe/?stationId=genre:ambientgenre",  "tags": ["Ambient", "Drone", "AtmosphericMusic"], "description": "Обволакивающие звуковые ландшафты, медитативные текстуры и гипнотические пространства для глубокого погружения и релаксации." },          
-                                  {
-                                      "name":  "Колыбельные",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:lullaby",
-                                      "tags":  [
-                                                   "Детская",
-                                                   "Спокойная",
-                                                   "Для сна"
-                                               ],
-                                      "description":  ""
-                                  },
                                   {
                                       "name":  "Техно",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=genre:techno",
@@ -475,16 +468,6 @@
                                                    "Метал",
                                                    "Мрачная",
                                                    "Симфоник"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Бибоп",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:bebopgenre",
-                                      "tags":  [
-                                                   "Джаз",
-                                                   "Ретро",
-                                                   "Энергичная"
                                                ],
                                       "description":  ""
                                   },
@@ -1405,16 +1388,6 @@
                                                    "Электроника",
                                                    "Бейс",
                                                    "Британская"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Арт-панк",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=micro-genre:art-punk",
-                                      "tags":  [
-                                                   "Панк",
-                                                   "Экспериментальная",
-                                                   "Рок"
                                                ],
                                       "description":  ""
                                   },
@@ -5260,6 +5233,7 @@
                         { "name": "Сет В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:9",  "tags": ["RoadTrip", "DrivingMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
                         { "name": "Сет Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:3",  "tags": ["PartyMix", "DanceHits", "ClubVibes"], "description": "Зажигательные танцевальные хиты, качающие басы и взрывная клубная атмосфера для яркого праздника." },
                         { "name": "Сет Дабстеп", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:432",  "tags": ["DubstepSet", "BassMusic", "Brostep"], "description": "Тяжёлые воббл-басы, агрессивные ломаные биты и мощный энергетический заряд плотного клубного микса." },
+                        { "name": "Сет Дип-хаус", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-micro-genre:18",  "tags": ["DeepHouse", "HouseSet", "MelodicHouse"], "description": "Глубокие гипнотические басы, атмосферные клавишные и обволакивающий ритм изысканного вечернего клубного микса." },
                         { "name": "Сет Драм-н-бэйс", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:332",  "tags": ["DrumAndBass", "DnBSet", "Neurofunk"], "description": "Стремительные ломаные биты, глубокий пульсирующий бас и бешеная энергетика для мощного рейва." },
                         { "name": "Сет Просыпаюсь", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:13",  "tags": ["MorningVibes", "WakeUpMusic", "GoodMorning"], "description": "Мягкие ритмы, бодрящие светлые мелодии и позитивный настрой для твоего идеального утра." },
                         { "name": "Сет Танцевальная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:16",  "tags": ["DanceMusic", "ClubHits", "PartyVibes"], "description": "Взрывные биты, зажигательные ритмы и главные танцевальные хиты для безудержного веселья на танцполе." },
@@ -5268,16 +5242,6 @@
                         { "name": "Сет Тренируюсь", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:1",  "tags": ["WorkoutMusic", "FitnessBeats", "GymMotivation"], "description": "Мощные биты, взрывные треки и мотивирующий ритм для максимальной эффективности твоих тренировок" },
                         { "name": "Сет Хаус", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:101",  "tags": ["HouseMusic", "ClubGroove", "DanceVibes"], "description": "Пульсирующий прямой бит, качающий грув и яркие вокальные сэмплы для истинных любителей клубной культуры." },
                         { "name": "Сет Электроника", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:68",  "tags": ["ElectronicSet", "ClubMusic", "TechnoVibes"], "description": "Плотные электронные биты, завораживающий гипнотический грув и динамичный микс для настоящих ценителей клубных сетов." },
-                                  {
-                                      "name":  "Дип-хаус",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-micro-genre:18",
-                                      "tags":  [
-                                                   "Хаус",
-                                                   "Глубокая",
-                                                   "Атмосферная"
-                                               ],
-                                      "description":  ""
-                                  },
                                   {
                                       "name":  "Тек-хаус",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-micro-genre:26",
@@ -6009,11 +5973,13 @@
                         { "name": "Забыть о бывших под R&B", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:598",  "tags": ["RnBHeals", "MovingOn", "IndependentVibes"], "description": "Качающие биты, уверенный вокал и исцеляющие вайбы для тех, кто начинает новую жизнь." },
                         { "name": "Звучит сюрреалистично", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:42",  "tags": ["SurrealVibes", "Psychedelic", "ExperimentalMusic"], "description": "Гипнотические психоделические коллажи, искажённые вокальные паттерны и странные звуковые ландшафты за гранью реальности." },
                         { "name": "Катить навстречу лету", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1012",  "tags": ["SummerVibes", "RoadTripMusic", "SunnyPop"], "description": "Солнечные инди-мелодии, бодрый летний поп и тёплый ветер дорожного приключения." },
+                        { "name": "Мистический йойк и дыхание севера", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1013",  "tags": ["SamiYoik", "NordicFolk", "AmbientShamanic"], "description": "Древнее саамское пение, глубокий шаманский бубен и леденящая магия бескрайних арктических просторов." },
                         { "name": "Мрачная средневековая  музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:45",  "tags": ["DarkMedieval", "GothicMusic", "DungeonSynth"], "description": "Готические хоралы, зловещие колесные лиры и мистическая атмосфера темного средневекового фэнтези." },
                         { "name": "Мрачная электронная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:11",  "tags": ["DarkElectro", "Darksynth", "IndustrialMusic"], "description": "Гипнотические тяжелые биты, гнетущие синтезаторы и мистическая атмосфера для погружения в темноту." },
                         { "name": "Музыка для праздника в деревне", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:34",  "tags": ["ДеревенскийПраздник", "FolkParty", "НародныеПесни"], "description": "Задорные плясовые гармони, душевные народные песни и весёлые застольные хиты для шумного деревенского гулянья." },
                         { "name": "Неделя до диплома (ааа)", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:100",  "tags": ["ДипломныйСтресс", "ДедлайнБлизко", "PanicMusic"], "description": "Бешеный коктейль из панического панка, отчаянного кофеинового лоу-фая и истерических электронных ритмов." },
                         { "name": "Нежный вечер в стиле латино", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1010",  "tags": ["LatinoChill", "BossaNova", "RomanticVibes"], "description": "Мягкие ритмы босса-новы, чувственные акустические гитары и тёплая романтика расслабленного латиноамериканского вечера." },
+                        { "name": "Праздник в африканском ритме", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:371",  "tags": ["Afrobeat", "AfricanRhythm", "DanceParty"], "description": "Зажигательные барабанные полиритмы, яркий афробит и взрывная карнавальная энергия жаркого африканского праздника." },
                         { "name": "Работать с документами под даунтемпо", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:47",  "tags": ["Downtempo", "Chillout", "FocusMusic"], "description": "Умиротворяющие электронные ритмы, обволакивающий чиллаут и мягкий звуковой фон для максимальной рабочей концентрации." },
                         { "name": "Расслабиться под электронику", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:12",  "tags": ["ChillElectronic", "AmbientGroove", "RelaxMusic"], "description": "Мягкие синтезаторные волны, размеренный бит и обволакивающий чиллаут для твоего максимального релакса." },
                         { "name": "Раствориться в нежном R&B", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:391",  "tags": ["SmoothRnB", "SlowJams", "SensualVibes"], "description": "Бархатный вокал, чувственные медленные биты и обволакивающая атмосфера романтики для полного расслабления." },
@@ -6021,6 +5987,7 @@
                         { "name": "Тишина после бури", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:38",  "tags": ["PostStorm", "Ambient", "CalmVibes"], "description": "Очищающий неоклассический эмбиент, капли дождя и меланхоличный рояль для обретения внутреннего покоя." },
                         { "name": "Традиционная и современная музыка африки", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:35",  "tags": ["AfricanMusic", "Afrobeat", "TraditionalAfrican"], "description": "Гипнотические племенные барабаны, яркий афробит и солнечные ритмы современного черного континента." },
                         { "name": "Тренироваться под UK-гэридж", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:9",  "tags": ["UKGarage", "WorkoutMusic", "GarageBeats"], "description": "Энергичный свитч-бит, качающий басслайн и бодрый вокал для мощного спортивного прогресса." },
+                        { "name": "Тренироваться под хаус", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:46",  "tags": ["HouseMusic", "WorkoutPumping", "FitnessMix"], "description": "Мощный четырехдольный бит, энергичный вокал и драйвовый клубный ритм для максимальной спортивной мотивации." },
                         { "name": "Туманные пейзажи атмосферного блэк-метала", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:32",  "tags": ["AtmosphericBlackMetal", "AmbientBlack", "DepressiveMetal"], "description": "Сырые гитарные тремоло, меланхоличные клавишные и мрачный фолк в эстетике бесконечных северных лесов." },
                         { "name": "Турецкая этника на новый лад", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:2",  "tags": ["TurkishEthnic", "AnatolianBeats", "ModernEthno"], "description": "Древние анатолийские мотивы, восточные инструменты и стильные электронные биты для погружения." },    
                         { "name": "Тяжелый как кувалда, дэт-метал", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:30",  "tags": ["DeathMetal", "BrutalRiffs", "Blastbeats"], "description": "Сокрушительные бластбиты, утробный гроулинг и брутальные риффы невероятной разрушительной мощности для фанатов экстрима." },
@@ -6039,16 +6006,6 @@
                         { "name": "Эстетика заброшенных заводов", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:5",  "tags": ["IndustrialAmbient", "DarkAmbient", "FactoryAesthetics"], "description": "Холодные индустриальные шумы, мрачный эмбиент и меланхоличный эхо-ритм опустевших бетонных пространств." },
                         { "name": "Этника сальвадорских улиц", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:3",  "tags": ["SalvadoranEthnic", "StreetFolk", "CentralAmericanBeats"], "description": "Колоритные уличные ритмы, фольклорные напевы маримбы и живая карибская энергия Сальвадора." },
                         { "name": "Ярость трэш-метала против системы", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:33",  "tags": ["ThrashMetal", "ProtestMusic", "MetalRiot"], "description": "Протестные скоростные риффы, бескомпромиссные тексты и сокрушительная агрессия против тоталитарного контроля и лжи." },            
-                                    {
-                                        "name":  "Спортивный хаус-микс",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:46",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Энергичная",
-                                                     "Для спорта"
-                                                 ],
-                                        "description":  ""
-                                    },
                                     {
                                         "name":  "Спокойная электроника для афтепати",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:50",
@@ -8021,16 +7978,6 @@
                                                      "На вайбе",
                                                      "Атмосферная",
                                                      "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Африканский ритм праздника",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:371",
-                                        "tags":  [
-                                                     "Этника",
-                                                     "Танцевальная",
-                                                     "Для вечеринки"
                                                  ],
                                         "description":  ""
                                     },
@@ -11517,16 +11464,6 @@
                                     {
                                         "name":  "Собирать грибы",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:999",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мистический йойк: симфония севера",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:1013",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Атмосферная",
