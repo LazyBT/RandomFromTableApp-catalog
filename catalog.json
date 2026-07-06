@@ -49,6 +49,7 @@
                         { "name": "Биг бэнды", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bigbands",  "tags": ["BigBand", "SwingJazz", "OrchestraJazz"], "description": "Мощное многоголосие духовых, взрывной свинг и роскошная атмосфера золотой эры джазовых оркестров." },
                         { "name": "Блэк-метал", "deepLink": "yandexmusic://play-vibe/?stationId=genre:blackmetal",  "tags": ["BlackMetal", "RawMetal", "AtmosphericBlack"], "description": "Сырой тремоло-гитаризм, неистовый бластбит и мрачная оккультная атмосфера первозданной скандинавской тьмы." },
                         { "name": "Блюз", "deepLink": "yandexmusic://play-vibe/?stationId=genre:blues",  "tags": ["Blues", "ClassicBlues", "DeltaBlues"], "description": "Чувственные гитарные соло, пронзительный вокал и искренняя меланхолия классических историй о жизни." },
+                        { "name": "Болливуд", "deepLink": "yandexmusic://play-vibe/?stationId=genre:bollywood",  "tags": ["Bollywood", "IndianMusic", "FilmiHits"], "description": "Яркие оркестровки, зажигательные индийские ритмы и эмоциональный вокал из культовых шедевров индийского кинематографа." },
                         { "name": "В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=activity:road-trip",  "tags": ["RoadTrip", "TravelMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
                         { "name": "Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=activity:party",  "tags": ["PartyTime", "DanceHits", "ClubMusic"], "description": "Зажигательные танцевальные треки, мощные басы и безумная клубная атмосфера для твоей лучшей тусовки." },
                         { "name": "Вечные хиты", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:the-greatest-hits",  "tags": ["GoldenHits", "ClassicMusic", "TimelessSongs"], "description": "Легендарные треки, проверенные временем шедевры и любимые мелодии, которые объединяют поколения слушателей." },
@@ -547,16 +548,6 @@
                                                    "Поп",
                                                    "Зарубежная",
                                                    "Разное"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
-                                      "name":  "Болливуд",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=genre:bollywood",
-                                      "tags":  [
-                                                   "Саундтреки",
-                                                   "Индийская",
-                                                   "Танцевальная"
                                                ],
                                       "description":  ""
                                   },
@@ -5151,6 +5142,7 @@
                         { "name": "Сет Брейкбит", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:155",  "tags": ["Breakbeat", "BigBeat", "RaveVibes"], "description": "Ломаные фанковые ритмы, мощные басовые линии и бешеная энергетика олдскульного клубного рейва." },
                         { "name": "Сет В дороге", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:9",  "tags": ["RoadTrip", "DrivingMusic", "OnTheRoad"], "description": "Атмосферные дорожные треки, ритмичный бит и вдохновляющие мелодии для твоего идеального путешествия." },
                         { "name": "Сет Вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-activity:3",  "tags": ["PartyMix", "DanceHits", "ClubVibes"], "description": "Зажигательные танцевальные хиты, качающие басы и взрывная клубная атмосфера для яркого праздника." },
+                        { "name": "Сет Даб", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:489",  "tags": ["DubSet", "DubTechno", "ReggaeDub"], "description": "Глубокий пульсирующий бас, пространственное эхо и гипнотический регги-ритм в непрерывном психоделическом миксе." },
                         { "name": "Сет Дабстеп", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:432",  "tags": ["DubstepSet", "BassMusic", "Brostep"], "description": "Тяжёлые воббл-басы, агрессивные ломаные биты и мощный энергетический заряд плотного клубного микса." },
                         { "name": "Сет Дип-хаус", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-micro-genre:18",  "tags": ["DeepHouse", "HouseSet", "MelodicHouse"], "description": "Глубокие гипнотические басы, атмосферные клавишные и обволакивающий ритм изысканного вечернего клубного микса." },
                         { "name": "Сет Драм-н-бэйс", "deepLink": "yandexmusic://play-vibe/?stationId=mix-by-genre:332",  "tags": ["DrumAndBass", "DnBSet", "Neurofunk"], "description": "Стремительные ломаные биты, глубокий пульсирующий бас и бешеная энергетика для мощного рейва." },
@@ -5785,16 +5777,6 @@
                                       "description":  ""
                                   },
                                   {
-                                      "name":  "Даб",
-                                      "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:489",
-                                      "tags":  [
-                                                   "Даб",
-                                                   "Глубокая",
-                                                   "Бас"
-                                               ],
-                                      "description":  ""
-                                  },
-                                  {
                                       "name":  "Диско",
                                       "deepLink":  "yandexmusic://play-vibe/?stationId=mix-by-genre:37",
                                       "tags":  [
@@ -5871,6 +5853,7 @@
                         { "name": "Забыть о бывших под R&B", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:598",  "tags": ["RnBHeals", "MovingOn", "IndependentVibes"], "description": "Качающие биты, уверенный вокал и исцеляющие вайбы для тех, кто начинает новую жизнь." },
                         { "name": "Звучит сюрреалистично", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:42",  "tags": ["SurrealVibes", "Psychedelic", "ExperimentalMusic"], "description": "Гипнотические психоделические коллажи, искажённые вокальные паттерны и странные звуковые ландшафты за гранью реальности." },
                         { "name": "Интенсивная тренировка под жёсткий металкор", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1014",  "tags": ["MetalcoreWorkout", "HeavyRiffs", "GymMotivation"], "description": "Яростные брейкдауны, сокрушительные риффы и взрывная адреналиновая энергия для преодоления любых спортивных пределов." },
+                        { "name": "Итальянская музыка для романтического вечера", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1019",  "tags": ["ItalianRomance", "RomanticItalian", "LoveSongs"], "description": "Чувственные итальянские баллады, бархатный вокал и нежная мелодия гитары для идеального свидания вдвоем." },
                         { "name": "Катить навстречу лету", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1012",  "tags": ["SummerVibes", "RoadTripMusic", "SunnyPop"], "description": "Солнечные инди-мелодии, бодрый летний поп и тёплый ветер дорожного приключения." },
                         { "name": "Мистический йойк и дыхание севера", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1013",  "tags": ["SamiYoik", "NordicFolk", "AmbientShamanic"], "description": "Древнее саамское пение, глубокий шаманский бубен и леденящая магия бескрайних арктических просторов." },
                         { "name": "Мрачная средневековая  музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:45",  "tags": ["DarkMedieval", "GothicMusic", "DungeonSynth"], "description": "Готические хоралы, зловещие колесные лиры и мистическая атмосфера темного средневекового фэнтези." },
