@@ -1,5 +1,5 @@
 {
-    "version":  11,
+    "version":  12,
     "sources":  {
                     "waves":  [
                         { "name": "1950-е", "deepLink": "yandexmusic://play-vibe/?stationId=epoch:fifties",  "tags": ["50sMusic", "RockAndRoll", "RetroVibes"], "description": "Энергичный рок-н-ролл, романтичные баллады и виниловый дух эпохи зарождения популярной музыки." },
@@ -5630,6 +5630,13 @@
                                   }
                               ],
                     "at_vibe":  [
+                        { "name": "Мощный техничный дэт-метал", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:188",  "tags": ["дэтметал", "техничный", "брутал"], "description": "Брутальная скорость, сложные риффы и сокрушительная мощь дэт-метала." },
+                        { "name": "Торжественная классика", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:192",  "tags": ["классика", "торжество ", "симфония"], "description": "Величественные шедевры классики для церемоний и торжеств." },
+                        { "name": "Минималистичный и холодный дарк-джаз", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:194",  "tags": ["даркджаз", "минимализм", "нуар"], "description": "Мрачные, разреженные звуки холодного ночного дарк-джаза." },
+                        { "name": "Мелодичный блэк-метал с готической эстетикой", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:199",  "tags": ["блэкметал", "готика", "мелодик"], "description": "Мрачные мелодии и готическая атмосфера в ледяном блэк-метале." },
+                        { "name": "Мелодичный атмосферный дабстеп", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:200",  "tags": ["дабстеп", "атмосфера", "мелодик"], "description": "Глубокий бас, мелодичные переливы и атмосферные звуковые просторы." },
+                        { "name": "Звучит Вьетнам", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:201",  "tags": ["вьетнам", "этника", "азия"], "description": "Традиционные мотивы и современные ритмы загадочного Вьетнама." },
+                        
                         { "name": "Альтернативный метал и злой флоу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:441",  "tags": ["AltMetal", "NuMetal", "AngryFlow"], "description": "Тяжёлые риффы, яростный речитатив и взрывная агрессия на стыке метала и рэпкора." },
                         { "name": "Альтернативный метал нулевых", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",  "tags": ["AltMetal", "2000sRock", "NuMetal"], "description": "Тяжёлые гитарные риффы, надрывный вокал и бунтарская энергетика расцвета альтернативной рок-сцены." },
                         { "name": "Аргентинский рок", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:359",  "tags": ["RockNacional", "ArgentineRock", "RockEnEspañol"], "description": "Страстный испаноязычный вокал, поэтичные тексты и самобытный латиноамериканский драйв легендарной рок-сцены." },
@@ -6513,66 +6520,6 @@
                                         "tags":  [
                                                      "Электроника",
                                                      "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мощный техничный дэт-метал",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:188",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Торжественная классика",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:192",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Минималистичный и холодный дарк-джаз",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:194",
-                                        "tags":  [
-                                                     "Джаз",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мелодичный блэк-метал с готической эстетикой",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:199",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мелодичный атмосферный дабстеп",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:200",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мелодии вьетнама",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:201",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
                                                      "Подборка"
                                                  ],
                                         "description":  ""
