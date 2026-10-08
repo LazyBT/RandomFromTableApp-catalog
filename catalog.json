@@ -5630,12 +5630,32 @@
                                   }
                               ],
                     "at_vibe":  [
+                        { "name": "Играть в настолки", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:172",  "tags": ["настолки", "уют", "друзья"], "description": "Атмосферные мелодии для уютных вечеров за настольными играми." },
+                        { "name": "Чтобы растения цвели", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:173",  "tags": ["растения", "цветы", "спокойствие"], "description": "Мягкие мелодии для ухода за цветущими растениями." },
+                        { "name": "Ме-е-едленно танцевать", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:175",  "tags": ["медленныйтанец", "романтика", "любовь"], "description": "Романтичные и плавные мелодии для неспешных парных танцев." },
+                        { "name": "Кататься на лыжах", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:176",  "tags": ["лыжи", "спорт", "зима"], "description": "Бодрые ритмы для спуска по снежным склонам." },
+                        { "name": "Устроить дикие танцы", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:179",  "tags": ["танцы", "энергия", "вечеринка"], "description": "Зажигательные ритмы для безудержного веселья и танцев." },
+                        { "name": "Саундтреки к мелодрамам", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:180",  "tags": ["саундтрек", "мелодрама", "кино"], "description": "Проникновенные мелодии, усиливающие эмоции романтических киносцен." },
+                        { "name": "Вечеринка у бассейна", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:181",  "tags": ["лето", "вечеринка", "бассейн"], "description": "Летние хиты, танцы и веселье у воды до заката." },
+                        { "name": "Бокс!", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:183",  "tags": ["бокс", "спорт", "мотивация"], "description": "Энергичные ритмы и драйв для тренировок и боев." },
+                        { "name": "Мрачный эмбиент с элементами хоррора", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:185",  "tags": ["эмбиент", "хоррор", "мрак"], "description": "Гнетущие звуковые ландшафты, страх и тревога в эмбиенте." },
+                        { "name": "Мрачное минимал-техно с холодком", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:186",  "tags": ["техно", "минимал", "мрачное"], "description": "Гипнотичные ритмы, ледяная атмосфера и мрачный минимал-техно." },
                         { "name": "Мощный техничный дэт-метал", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:188",  "tags": ["дэтметал", "техничный", "брутал"], "description": "Брутальная скорость, сложные риффы и сокрушительная мощь дэт-метала." },
                         { "name": "Торжественная классика", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:192",  "tags": ["классика", "торжество ", "симфония"], "description": "Величественные шедевры классики для церемоний и торжеств." },
                         { "name": "Минималистичный и холодный дарк-джаз", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:194",  "tags": ["даркджаз", "минимализм", "нуар"], "description": "Мрачные, разреженные звуки холодного ночного дарк-джаза." },
                         { "name": "Мелодичный блэк-метал с готической эстетикой", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:199",  "tags": ["блэкметал", "готика", "мелодик"], "description": "Мрачные мелодии и готическая атмосфера в ледяном блэк-метале." },
                         { "name": "Мелодичный атмосферный дабстеп", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:200",  "tags": ["дабстеп", "атмосфера", "мелодик"], "description": "Глубокий бас, мелодичные переливы и атмосферные звуковые просторы." },
                         { "name": "Звучит Вьетнам", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:201",  "tags": ["вьетнам", "этника", "азия"], "description": "Традиционные мотивы и современные ритмы загадочного Вьетнама." },
+                        { "name": "Меланхоличный инди-рок", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:203",  "tags": ["индирок", "меланхолия", "грусть"], "description": "Тихая грусть, гитарные переливы и осеннее настроение инди-рока." },
+                        { "name": "Поразмышлять под меланхоличный инди-поп", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:204",  "tags": ["индипоп", "меланхолия", "размышления"], "description": "Тихие размышления под тёплый и грустный инди-поп." },
+                        { "name": "Медитативный джаз", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:205",  "tags": ["джаз", "медитация", "спокойствие"], "description": "Спокойные импровизации для глубокого расслабления и медитации." },
+                        { "name": "Мир ведьм и заклинаний", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:208",  "tags": ["ведьмы", "магия", "фэнтези"], "description": "Таинственные мелодии, магия и колдовская атмосфера для ведьм." },
+                        { "name": "Меланхоличные песни о расставании", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:211",  "tags": ["расставание", "грусть", "любовь"], "description": "Грустные мелодии и слова о потерянной любви." },
+                        { "name": "Лениться на выходных", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:212",  "tags": ["релакс", "выходные", "ленивоеутро"], "description": "Расслабленные мелодии для ленивого утра без спешки." },
+                        { "name": "Лениво завтракать в постели", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:213",  "tags": ["утро", "релакс", "уют"], "description": "Мягкие утренние мелодии для неспешного завтрака под одеялом." },
+                        { "name": "Легко на душе", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:214",  "tags": ["радость", "лёгкость", "позитив"], "description": "Светлые мелодии, дарящие радость и спокойствие." },
+                        { "name": "Вечеринка под кубинскую тимбу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:217",  "tags": ["тимба", "куба", "латина"], "description": "Зажигательные ритмы тимбы для жаркой кубинской вечеринки." },
+                        { "name": "Космический транс", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:218",  "tags": ["транс", "космос", "психоделика"], "description": "Гипнотические ритмы и космические звуки для трансового путешествия." },
                         
                         { "name": "Альтернативный метал и злой флоу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:441",  "tags": ["AltMetal", "NuMetal", "AngryFlow"], "description": "Тяжёлые риффы, яростный речитатив и взрывная агрессия на стыке метала и рэпкора." },
                         { "name": "Альтернативный метал нулевых", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",  "tags": ["AltMetal", "2000sRock", "NuMetal"], "description": "Тяжёлые гитарные риффы, надрывный вокал и бунтарская энергетика расцвета альтернативной рок-сцены." },
@@ -6415,210 +6435,10 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Музыка для настольных игр",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:172",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Японский джаз: традиции и современность",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:171",
                                         "tags":  [
                                                      "Джаз",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для моих растений, чтобы они цвели",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:173",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для медленных танцев",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:175",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для катания на лыжах",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:176",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для диких танцев",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:179",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Саундтреки к мелодрамам о любви",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:180",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Вечеринка у бассейна",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:181",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Для вечеринки"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для бокса",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:183",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мрачное и холодное минимал-техно",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:186",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мрачный эмбиент с элементами хоррора",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:185",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Меланхоличный инди-рок",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:203",
-                                        "tags":  [
-                                                     "Рок",
-                                                     "Спокойная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Поразмышлять под меланхоличный инди-поп",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:204",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Спокойная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Медитативный джаз",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:205",
-                                        "tags":  [
-                                                     "Джаз",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Магия звуков: мир ведьм и заклинаний",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:208",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Меланхоличные песни о расставании",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:211",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Спокойная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Лениться на выходных",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:212",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Ленивый завтрак в постели",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:213",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Легкая и жизнерадостная музыка",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:214",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Кубинская тимба для вечеринки",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:217",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Для вечеринки"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Космический транс",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:218",
-                                        "tags":  [
-                                                     "Электроника",
                                                      "Атмосферная",
                                                      "Подборка"
                                                  ],
