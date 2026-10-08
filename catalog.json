@@ -5630,6 +5630,12 @@
                                   }
                               ],
                     "at_vibe":  [
+                        { "name": "Устроить рейв в панельке", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:162",  "tags": ["рейв", "панелька", "андеграунд"], "description": "Атмосфера андеграундного рейва в тесной панельной квартире." },
+                        { "name": "Семейный праздник под советские песни", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:166",  "tags": ["советскиепесни", "семья", "ностальгия"], "description": "Тёплые советские хиты для семейного застолья и ностальгии." },
+                        { "name": "Пляжная вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:168",  "tags": ["пляж", "лето", "вечеринка"], "description": "Летние ритмы, солнце и танцы на песке у океана." },
+                        { "name": "Звучит питерская коммуналка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:169",  "tags": ["петербург", "коммуналка", "атмосфера"], "description": "Атмосфера старого Петербурга: скрип, уют и соседские истории." },
+                        { "name": "Пока едет моя пицца", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:170",  "tags": ["пицца", "ожидание", "веселье"], "description": "Бодрые мелодии для ожидания любимого горячего ужина." },
+                        { "name": "Японский джаз: традиции и современность", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:171",  "tags": ["японскийджаз", "традиции", "современность"], "description": "Джаз с японской душой: от традиций до современности." },
                         { "name": "Играть в настолки", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:172",  "tags": ["настолки", "уют", "друзья"], "description": "Атмосферные мелодии для уютных вечеров за настольными играми." },
                         { "name": "Чтобы растения цвели", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:173",  "tags": ["растения", "цветы", "спокойствие"], "description": "Мягкие мелодии для ухода за цветущими растениями." },
                         { "name": "Ме-е-едленно танцевать", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:175",  "tags": ["медленныйтанец", "романтика", "любовь"], "description": "Романтичные и плавные мелодии для неспешных парных танцев." },
@@ -5656,6 +5662,12 @@
                         { "name": "Легко на душе", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:214",  "tags": ["радость", "лёгкость", "позитив"], "description": "Светлые мелодии, дарящие радость и спокойствие." },
                         { "name": "Вечеринка под кубинскую тимбу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:217",  "tags": ["тимба", "куба", "латина"], "description": "Зажигательные ритмы тимбы для жаркой кубинской вечеринки." },
                         { "name": "Космический транс", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:218",  "tags": ["транс", "космос", "психоделика"], "description": "Гипнотические ритмы и космические звуки для трансового путешествия." },
+                        { "name": "Контрабас, джаз, полночь", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:220",  "tags": ["джаз", "контрабас", "нуар"], "description": "Глубокий контрабас и ночной джаз для атмосферы нуара." },
+                        { "name": "На душе лето и поп", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:224",  "tags": ["поп", "лето", "настроение"], "description": "Солнечные поп-хиты для лёгкого летнего настроения." },
+                        { "name": "Настроиться перед публичным выступлением", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:225",  "tags": ["выступление", "уверенность", "фокус"], "description": "Собранные ритмы для концентрации и уверенности перед выходом на сцену." },
+                        { "name": "Поймать дзен", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:226",  "tags": ["дзен", "медитация", "спокойствие"], "description": "Спокойные звуки для внутреннего равновесия и тишины." },
+                        { "name": "Итальянская народная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:228",  "tags": ["италия", "фолк", "народная"], "description": "Солнечные мелодии и ритмы итальянских деревень и праздников." },
+                        { "name": "Мчать навстречу приключениям", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:229",  "tags": ["приключения", "дорога", "драйв"], "description": "Драйвовые ритмы для дороги, скорости и новых открытий." },
                         
                         { "name": "Альтернативный метал и злой флоу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:441",  "tags": ["AltMetal", "NuMetal", "AngryFlow"], "description": "Тяжёлые риффы, яростный речитатив и взрывная агрессия на стыке метала и рэпкора." },
                         { "name": "Альтернативный метал нулевых", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",  "tags": ["AltMetal", "2000sRock", "NuMetal"], "description": "Тяжёлые гитарные риффы, надрывный вокал и бунтарская энергетика расцвета альтернативной рок-сцены." },
@@ -6385,131 +6397,12 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Музыка для рейва в панельке",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:162",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Советские песни для семейного праздника",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:166",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Для вечеринки"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для питерской коммуналки",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:169",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для пляжной вечеринки",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:168",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Танцевальная",
-                                                     "Для вечеринки"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для ожидания курьера с моей пиццей",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:170",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Японский джаз: традиции и современность",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:171",
-                                        "tags":  [
-                                                     "Джаз",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Контрабас и виски: полуночный джаз",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:220",
-                                        "tags":  [
-                                                     "Джаз",
-                                                     "Атмосферная",
-                                                     "Ночь"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Поп для летнего настроения",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:224",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Настроиться перед публичным выступлением",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:225",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка чтобы поймать дзен",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:226",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Инструментальная музыка с осенними мотивами",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:230",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Атмосферная",
                                                      "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Итальянская народная музыка",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:228",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Мчать навстречу приключениям",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:229",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная"
                                                  ],
                                         "description":  ""
                                     },
