@@ -5630,6 +5630,12 @@
                                   }
                               ],
                     "at_vibe":  [
+                        { "name": "Устроить третье свидание", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:154",  "tags": ["свидание", "романтика", "волнение"], "description": "Романтичные мелодии для волнующего третьего свидания." },
+                        { "name": "Страдать по бывшим", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:156",  "tags": ["расставание", "грусть", "ностальгия"], "description": "Пронзительные песни о потерянной любви и ностальгии." },
+                        { "name": "Смотреть на закат", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:157",  "tags": ["закат", "спокойствие", "вечер"], "description": "Тёплые мелодии для созерцания заката и тишины." },
+                        { "name": "Этно-эмбиент с шаманскими мотивами", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:158",  "tags": ["этно", "эмбиент", "шаманизм"], "description": "Шаманские ритмы и этнические звуки в глубоком эмбиенте." },
+                        { "name": "Стресс и тревога, на выход!", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:159",  "tags": ["антистресс", "релакс", "спокойствие"], "description": "Успокаивающие звуки для снятия стресса и тревоги." },
+                        { "name": "Собрать пазл из 24 тысяч деталей", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:160",  "tags": ["пазл", "концентрация", "спокойствие"], "description": "Умиротворяющие мелодии для долгого и кропотливого сбора пазла." },
                         { "name": "Устроить рейв в панельке", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:162",  "tags": ["рейв", "панелька", "андеграунд"], "description": "Атмосфера андеграундного рейва в тесной панельной квартире." },
                         { "name": "Семейный праздник под советские песни", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:166",  "tags": ["советскиепесни", "семья", "ностальгия"], "description": "Тёплые советские хиты для семейного застолья и ностальгии." },
                         { "name": "Пляжная вечеринка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:168",  "tags": ["пляж", "лето", "вечеринка"], "description": "Летние ритмы, солнце и танцы на песке у океана." },
@@ -5668,6 +5674,12 @@
                         { "name": "Поймать дзен", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:226",  "tags": ["дзен", "медитация", "спокойствие"], "description": "Спокойные звуки для внутреннего равновесия и тишины." },
                         { "name": "Итальянская народная музыка", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:228",  "tags": ["италия", "фолк", "народная"], "description": "Солнечные мелодии и ритмы итальянских деревень и праздников." },
                         { "name": "Мчать навстречу приключениям", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:229",  "tags": ["приключения", "дорога", "драйв"], "description": "Драйвовые ритмы для дороги, скорости и новых открытий." },
+                        { "name": "Осень без слов", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:230",  "tags": ["осень", "инструментал", "грусть"], "description": "Тихая осенняя грусть в инструментальных мелодиях без слов." },
+                        { "name": "Индустриальная музыка с мрачной атмосферой", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:233",  "tags": ["индастриал", "мрак", "механика"], "description": "Механические ритмы и гнетущая атмосфера мрачной индустриальной сцены." },
+                        { "name": "Маткор с рваными ритмами", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:234",  "tags": ["маткор", "хаос", "агрессия"], "description": "Хаотичные рваные ритмы и агрессия маткора." },
+                        { "name": "Индийская романтика", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:235",  "tags": ["индия", "романтика", "рага"], "description": "Нежные раги и чувственные мелодии для индийской романтики." },
+                        { "name": "Рэп для хорошего настроения", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:238",  "tags": ["рэп", "позитив", "настроение"], "description": "Позитивные биты и заряжающий рэп для отличного дня." },
+                        { "name": "Индастриал-метал с электронным звучанием", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:239",  "tags": ["индастриалметал", "электроника", "тяжесть"], "description": "Тяжёлые гитары и электронные биты в индастриал-метале." },
                         
                         { "name": "Альтернативный метал и злой флоу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:441",  "tags": ["AltMetal", "NuMetal", "AngryFlow"], "description": "Тяжёлые риффы, яростный речитатив и взрывная агрессия на стыке метала и рэпкора." },
                         { "name": "Альтернативный метал нулевых", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",  "tags": ["AltMetal", "2000sRock", "NuMetal"], "description": "Тяжёлые гитарные риффы, надрывный вокал и бунтарская энергетика расцвета альтернативной рок-сцены." },
@@ -6331,126 +6343,6 @@
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:153",
                                         "tags":  [
                                                      "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для третьего свидания",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:154",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка чтобы страдать по бывшим",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:156",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка чтобы смотреть на закат",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:157",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Этно-эмбиент с шаманскими мотивами",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:158",
-                                        "tags":  [
-                                                     "Электроника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для сборки пазла из 24 тысяч деталей",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:160",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка против стресса и тревоги",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:159",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Инструментальная музыка с осенними мотивами",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:230",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Индустриальная музыка с мрачной атмосферой",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:233",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Мрачная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Маткор с рваными ритмами",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:234",
-                                        "tags":  [
-                                                     "Метал",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Индийская романтика",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:235",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Рэп для хорошего настроения",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:238",
-                                        "tags":  [
-                                                     "Хип-хоп",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Индастриал-метал с электронным звучанием",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:239",
-                                        "tags":  [
-                                                     "Метал",
                                                      "Атмосферная",
                                                      "Подборка"
                                                  ],
