@@ -5630,6 +5630,14 @@
                                   }
                               ],
                     "at_vibe":  [
+                        { "name": "Этника и дух джунглей", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:141",  "tags": ["этника", "джунгли", "племенные"], "description": "Живые этнические ритмы и звуки тропических джунглей." },
+                        { "name": "Будто я хоббит в Средиземье", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:144",  "tags": ["фэнтези", "фолк", "средиземье"], "description": "Уютные фолк-мелодии для путешествия по Средиземью." },
+                        { "name": "Всё бесит", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:145",  "tags": ["злость", "агрессия", "раздражение"], "description": "Агрессивные треки для выплеска злости и раздражения." },
+                        { "name": "Медитировать под флейту", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:146",  "tags": ["флейта", "медитация", "покой"], "description": "Мягкие звуки флейты для глубокой медитации и покоя." },
+                        { "name": "Провожать закатное солнце", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:147",  "tags": ["закат", "спокойствие", "вечер"], "description": "Тёплые мелодии для проводов солнца на закате." },
+                        { "name": "Музыка народов севера", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:148",  "tags": ["север", "фолк", "этника"], "description": "Суровые и завораживающие звуки северных народов." },
+                        { "name": "Встретить утро с кофе", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:152",  "tags": ["утро", "кофе", "уют"], "description": "Тёплые мелодии для неспешного утра с чашкой кофе." },
+                        { "name": "Поверить в себя", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:153",  "tags": ["мотивация", "уверенность", "вдохновение"], "description": "Вдохновляющие мелодии для уверенности и веры в себя." },
                         { "name": "Устроить третье свидание", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:154",  "tags": ["свидание", "романтика", "волнение"], "description": "Романтичные мелодии для волнующего третьего свидания." },
                         { "name": "Страдать по бывшим", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:156",  "tags": ["расставание", "грусть", "ностальгия"], "description": "Пронзительные песни о потерянной любви и ностальгии." },
                         { "name": "Смотреть на закат", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:157",  "tags": ["закат", "спокойствие", "вечер"], "description": "Тёплые мелодии для созерцания заката и тишины." },
@@ -5680,6 +5688,14 @@
                         { "name": "Индийская романтика", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:235",  "tags": ["индия", "романтика", "рага"], "description": "Нежные раги и чувственные мелодии для индийской романтики." },
                         { "name": "Рэп для хорошего настроения", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:238",  "tags": ["рэп", "позитив", "настроение"], "description": "Позитивные биты и заряжающий рэп для отличного дня." },
                         { "name": "Индастриал-метал с электронным звучанием", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:239",  "tags": ["индастриалметал", "электроника", "тяжесть"], "description": "Тяжёлые гитары и электронные биты в индастриал-метале." },
+                        { "name": "Подтянуть английский по трекам", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:240",  "tags": ["английский", "обучение", "музыка"], "description": "Треки с чёткой дикцией для изучения английского на слух." },
+                        { "name": "Тренироваться под индастриал", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:241",  "tags": ["индастриал", "тренировка", "энергия"], "description": "Жёсткие индустриальные ритмы для интенсивной тренировки." },
+                        { "name": "Справиться с внутренним кризисом", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:243",  "tags": ["кризис", "рефлексия", "поддержка"], "description": "Глубокие мелодии для осмысления и преодоления внутреннего кризиса." },
+                        { "name": "Зимний вечер под пледом", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:244",  "tags": ["зима", "уют", "вечер"], "description": "Уютные мелодии для морозного вечера под тёплым пледом." },
+                        { "name": "Тёплый ламповый лоу-фай", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:246",  "tags": ["лоуфай", "уют", "винил"], "description": "Уютный лоу-фай с тёплым виниловым потрескиванием и мягкими битами." },
+                        { "name": "Сжечь мосты", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:247",  "tags": ["решимость", "разрыв", "сила"], "description": "Решительные и дерзкие треки для полного разрыва с прошлым." },
+                        { "name": "Скандинавская зима", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:248",  "tags": ["скандинавия", "зима", "север"], "description": "Ледяные и суровые звуки северной скандинавской зимы." },
+                        { "name": "Почувствовать тепло внутри", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:249",  "tags": ["тепло", "уют", "свет"], "description": "Тёплые и светлые мелодии для внутреннего тепла и уюта." },
                         
                         { "name": "Альтернативный метал и злой флоу", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:441",  "tags": ["AltMetal", "NuMetal", "AngryFlow"], "description": "Тяжёлые риффы, яростный речитатив и взрывная агрессия на стыке метала и рэпкора." },
                         { "name": "Альтернативный метал нулевых", "deepLink": "yandexmusic://play-vibe/?stationId=query-2-vibe:1153",  "tags": ["AltMetal", "2000sRock", "NuMetal"], "description": "Тяжёлые гитарные риффы, надрывный вокал и бунтарская энергетика расцвета альтернативной рок-сцены." },
@@ -6259,166 +6275,8 @@
                                         "description":  ""
                                     },
                                     {
-                                        "name":  "Этническая музыка: атмосфера тропического леса",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:141",
-                                        "tags":  [
-                                                     "Этника",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
                                         "name":  "Музыка, когда ударился мизинцем ноги об угол",
                                         "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:140",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка, когда всё бесит",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:145",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка словно я хоббит в средиземье",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:144",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка под закатное солнце",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:147",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка с флейтой для медитации",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:146",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Спокойная",
-                                                     "Для отдыха"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка народов севера",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:148",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для утреннего кофе",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:152",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Утро"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка для уверенности в своих силах",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:153",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Треки, по которым классно учить английский",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:240",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Индастриал для тренировок",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:241",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Энергичная",
-                                                     "Для спорта"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Зимний вечер под пледом",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:244",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Музыка чтобы справиться с экзистенциальным кризисом",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:243",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Тёплый ламповый лоу-фай",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:246",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Сжигаю мосты",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:247",
-                                        "tags":  [
-                                                     "На вайбе",
-                                                     "Атмосферная",
-                                                     "Подборка"
-                                                 ],
-                                        "description":  ""
-                                    },
-                                    {
-                                        "name":  "Зимние мотивы скандинавских стран",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:248",
-                                        "tags":  [
-
-                                                 ],
-                                        "description":  "Погружение в атмосферу Севера через звук."
-                                    },
-                                    {
-                                        "name":  "Музыка чтобы почувствовать тепло внутри",
-                                        "deepLink":  "yandexmusic://play-vibe/?stationId=query-2-vibe:249",
                                         "tags":  [
                                                      "На вайбе",
                                                      "Атмосферная",
